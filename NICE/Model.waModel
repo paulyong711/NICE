@@ -1,0 +1,615 @@
+﻿{
+	"toJSON": true,
+	"extraProperties": {
+		"version": "2",
+		"classes": {
+			"Building": {
+				"panelColor": "#4FA997",
+				"panel": {
+					"isOpen": "true",
+					"pathVisible": true,
+					"position": {
+						"X": 271,
+						"Y": 16
+					}
+				}
+			},
+			"Network": {
+				"panelColor": "#E5B9B7",
+				"panel": {
+					"isOpen": "true",
+					"pathVisible": true,
+					"position": {
+						"X": 555,
+						"Y": 19
+					}
+				}
+			},
+			"School": {
+				"panelColor": "#eee",
+				"panel": {
+					"isOpen": "true",
+					"pathVisible": true,
+					"position": {
+						"X": 276,
+						"Y": 433
+					}
+				}
+			},
+			"Location": {
+				"panelColor": "#8DB3E2",
+				"panel": {
+					"isOpen": "true",
+					"pathVisible": false,
+					"position": {
+						"X": 10,
+						"Y": 246
+					}
+				}
+			}
+		},
+		"model": {
+			"scriptMode": "manual",
+			"workspaceLeft": 0,
+			"workspaceTop": 1000,
+			"lastScriptLocation": {
+				"Building": {
+					"method": "Building/Building-methods.js"
+				},
+				"Network": {
+					"method": "Network/Network-methods.js"
+				},
+				"Location": {
+					"method": "Location/Location-methods.js"
+				},
+				"School": {
+					"method": "School/School-methods.js"
+				}
+			},
+			"relationCurve": {
+				"run": true,
+				"mode": 1
+			}
+		}
+	},
+	"dataClasses": [
+		{
+			"name": "Building",
+			"className": "Building",
+			"collectionName": "Buildings",
+			"scope": "public",
+			"attributes": [
+				{
+					"name": "ID",
+					"kind": "storage",
+					"scope": "public",
+					"unique": true,
+					"type": "long",
+					"primKey": true
+				},
+				{
+					"name": "code",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "address",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "city",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "state",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "zip",
+					"kind": "storage",
+					"scope": "public",
+					"type": "number"
+				},
+				{
+					"name": "borough",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "name",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "locationCollection",
+					"kind": "relatedEntities",
+					"scope": "public",
+					"type": "Locations",
+					"reversePath": true,
+					"path": "theBuilding"
+				},
+				{
+					"name": "networks",
+					"scope": "public",
+					"reversePath": true,
+					"path": "theBuilding",
+					"type": "Networks",
+					"kind": "relatedEntities"
+				}
+			],
+			"methods": [
+				{
+					"name": "importBuildings",
+					"applyTo": "dataClass",
+					"scope": "publicOnServer",
+					"from": "model.Building.methods.importBuildings",
+					"userDefined": true
+				}
+			]
+		},
+		{
+			"name": "Location",
+			"className": "Location",
+			"collectionName": "Locations",
+			"scope": "public",
+			"attributes": [
+				{
+					"name": "ID",
+					"kind": "storage",
+					"scope": "public",
+					"unique": true,
+					"autosequence": true,
+					"type": "long",
+					"primKey": true
+				},
+				{
+					"name": "primaryLocation",
+					"kind": "storage",
+					"scope": "public",
+					"type": "bool"
+				},
+				{
+					"name": "theBuilding",
+					"kind": "relatedEntity",
+					"scope": "public",
+					"type": "Building",
+					"path": "Building"
+				},
+				{
+					"name": "theSchool",
+					"kind": "relatedEntity",
+					"scope": "public",
+					"type": "School",
+					"path": "School"
+				}
+			],
+			"methods": [
+				{
+					"name": "importLocation",
+					"applyTo": "dataClass",
+					"scope": "publicOnServer",
+					"from": "model.Location.methods.importLocation",
+					"userDefined": true
+				}
+			]
+		},
+		{
+			"name": "Network",
+			"className": "Network",
+			"collectionName": "Networks",
+			"scope": "public",
+			"attributes": [
+				{
+					"name": "ID",
+					"kind": "storage",
+					"scope": "public",
+					"unique": true,
+					"type": "long",
+					"primKey": true
+				},
+				{
+					"name": "rackCode",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "idfId",
+					"scope": "public",
+					"type": "number",
+					"kind": "storage"
+				},
+				{
+					"name": "cabinetLocationID",
+					"scope": "public",
+					"type": "number",
+					"kind": "storage"
+				},
+				{
+					"name": "theBuilding",
+					"scope": "public",
+					"path": "Building",
+					"type": "Building",
+					"kind": "relatedEntity"
+				},
+				{
+					"name": "networkAddress",
+					"scope": "public",
+					"type": "string",
+					"kind": "storage"
+				},
+				{
+					"name": "netMask",
+					"scope": "public",
+					"type": "string",
+					"kind": "storage"
+				},
+				{
+					"name": "serviceNetwork",
+					"scope": "public",
+					"type": "string",
+					"kind": "storage"
+				},
+				{
+					"name": "secondScope",
+					"scope": "public",
+					"type": "string",
+					"kind": "storage"
+				},
+				{
+					"name": "vlan2",
+					"scope": "public",
+					"type": "string",
+					"kind": "storage"
+				},
+				{
+					"name": "vlan2Netmask",
+					"scope": "public",
+					"type": "string",
+					"kind": "storage"
+				},
+				{
+					"name": "vlan2Exclude",
+					"scope": "public",
+					"type": "string",
+					"kind": "storage"
+				},
+				{
+					"name": "vlan21",
+					"scope": "public",
+					"type": "string",
+					"kind": "storage"
+				},
+				{
+					"name": "vlan21Netmask",
+					"scope": "public",
+					"type": "string",
+					"kind": "storage"
+				},
+				{
+					"name": "vlan21Exclude",
+					"scope": "public",
+					"type": "string",
+					"kind": "storage"
+				},
+				{
+					"name": "monitorNetwork",
+					"scope": "public",
+					"type": "bool",
+					"kind": "storage"
+				},
+				{
+					"name": "monitorNetChange",
+					"scope": "public",
+					"type": "bool",
+					"kind": "storage"
+				},
+				{
+					"name": "status",
+					"scope": "public",
+					"type": "string",
+					"kind": "storage"
+				},
+				{
+					"name": "deployedDate",
+					"scope": "public",
+					"type": "date",
+					"kind": "storage"
+				},
+				{
+					"name": "model",
+					"scope": "public",
+					"type": "string",
+					"kind": "storage"
+				},
+				{
+					"name": "caas",
+					"scope": "public",
+					"type": "bool",
+					"kind": "storage"
+				},
+				{
+					"name": "caasDate",
+					"scope": "public",
+					"type": "date",
+					"kind": "storage"
+				},
+				{
+					"name": "cdn",
+					"scope": "public",
+					"type": "bool",
+					"kind": "storage"
+				},
+				{
+					"name": "cdnDate",
+					"scope": "public",
+					"type": "date",
+					"kind": "storage"
+				},
+				{
+					"name": "iptv",
+					"scope": "public",
+					"type": "bool",
+					"kind": "storage"
+				},
+				{
+					"name": "iptvDate",
+					"scope": "public",
+					"type": "date",
+					"kind": "storage"
+				},
+				{
+					"name": "ipdvs",
+					"scope": "public",
+					"type": "bool",
+					"kind": "storage"
+				},
+				{
+					"name": "ipdvsDate",
+					"scope": "public",
+					"type": "date",
+					"kind": "storage"
+				},
+				{
+					"name": "lonWorks",
+					"scope": "public",
+					"type": "bool",
+					"kind": "storage"
+				},
+				{
+					"name": "lonWorksDate",
+					"scope": "public",
+					"type": "date",
+					"kind": "storage"
+				},
+				{
+					"name": "pos",
+					"scope": "public",
+					"type": "bool",
+					"kind": "storage"
+				},
+				{
+					"name": "posDate",
+					"scope": "public",
+					"type": "date",
+					"kind": "storage"
+				},
+				{
+					"name": "multiAdminVlan",
+					"scope": "public",
+					"type": "bool",
+					"kind": "storage"
+				},
+				{
+					"name": "vrf",
+					"scope": "public",
+					"type": "bool",
+					"kind": "storage"
+				},
+				{
+					"name": "x0",
+					"scope": "public",
+					"type": "bool",
+					"kind": "storage"
+				},
+				{
+					"name": "mainFrameAccess",
+					"scope": "public",
+					"type": "bool",
+					"kind": "storage"
+				},
+				{
+					"name": "mainFrameDate",
+					"scope": "public",
+					"type": "date",
+					"kind": "storage"
+				},
+				{
+					"name": "dialBackup",
+					"scope": "public",
+					"type": "bool",
+					"kind": "storage"
+				},
+				{
+					"name": "dialBackupDate",
+					"scope": "public",
+					"type": "date",
+					"kind": "storage"
+				},
+				{
+					"name": "phoneNumber",
+					"scope": "public",
+					"type": "string",
+					"kind": "storage"
+				},
+				{
+					"name": "wirelessModel",
+					"scope": "public",
+					"type": "string",
+					"kind": "storage"
+				},
+				{
+					"name": "wirelessDate",
+					"scope": "public",
+					"type": "date",
+					"kind": "storage"
+				},
+				{
+					"name": "ssid",
+					"scope": "public",
+					"type": "string",
+					"kind": "storage"
+				},
+				{
+					"name": "wepkey",
+					"scope": "public",
+					"type": "string",
+					"kind": "storage"
+				},
+				{
+					"name": "presharedKey",
+					"scope": "public",
+					"type": "string",
+					"kind": "storage"
+				},
+				{
+					"name": "proconRsa",
+					"scope": "public",
+					"type": "bool",
+					"kind": "storage"
+				},
+				{
+					"name": "deployed",
+					"scope": "public",
+					"type": "string",
+					"kind": "storage"
+				},
+				{
+					"name": "rodc",
+					"scope": "public",
+					"type": "bool",
+					"kind": "storage"
+				},
+				{
+					"name": "rodcDate",
+					"scope": "public",
+					"type": "date",
+					"kind": "storage"
+				}
+			],
+			"methods": [
+				{
+					"name": "importNetwork",
+					"applyTo": "dataClass",
+					"scope": "publicOnServer",
+					"from": "model.Network.methods.importNetwork",
+					"userDefined": true
+				}
+			]
+		},
+		{
+			"name": "School",
+			"className": "School",
+			"collectionName": "Schools",
+			"scope": "public",
+			"attributes": [
+				{
+					"name": "ID",
+					"kind": "storage",
+					"scope": "public",
+					"unique": true,
+					"autosequence": true,
+					"type": "long",
+					"primKey": true
+				},
+				{
+					"name": "code",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "name",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "atsCode",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "bedsCode",
+					"kind": "storage",
+					"scope": "public",
+					"type": "number"
+				},
+				{
+					"name": "category",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "studentCount",
+					"kind": "storage",
+					"scope": "public",
+					"type": "number"
+				},
+				{
+					"name": "faxNumber",
+					"kind": "storage",
+					"scope": "public",
+					"type": "number"
+				},
+				{
+					"name": "phoneNumber",
+					"kind": "storage",
+					"scope": "public",
+					"type": "number"
+				},
+				{
+					"name": "principalName",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "principalPhone",
+					"kind": "storage",
+					"scope": "public",
+					"type": "number"
+				},
+				{
+					"name": "locationCollection",
+					"kind": "relatedEntities",
+					"scope": "public",
+					"type": "Locations",
+					"reversePath": true,
+					"path": "theSchool"
+				}
+			],
+			"methods": [
+				{
+					"name": "importSchools",
+					"applyTo": "dataClass",
+					"scope": "publicOnServer",
+					"from": "model.School.methods.importSchools",
+					"userDefined": true
+				}
+			]
+		}
+	],
+	"type": []
+}

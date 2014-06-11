@@ -1,0 +1,1001 @@
+﻿ID,Code,Name,ATS,BEDS,Category,Students,FAX,Phone,Principal,PrincipalsPhone
+1,K167,P.S. 167 The Parkway,17K167         ,331700010167,Elementary,518,NULL,NULL,NULL,NULL
+2,K281,I.S. 281 Joseph B Cavallaro,21K281         ,332100010281,Junior High-Intermediate-Middle,1325,NULL,NULL,NULL,NULL
+3,M018,P.S. 018 Park Terrace,06M018         ,310600010018,K-8,402,NULL,NULL,NULL,NULL
+4,M133,P.S. 133 Fred R Moore,05M133         ,310500010133,Elementary,319,NULL,NULL,NULL,NULL
+5,M419,Landmark High School,02M419         ,310200011419,High school,452,NULL,NULL,NULL,NULL
+6,M435,Manhattan Center for Science and Mathematics,04M435         ,310400011435,High school,1696,NULL,NULL,NULL,NULL
+7,Q096,P.S. 096,27Q096         ,342700010096,Elementary,331,NULL,NULL,NULL,NULL
+8,Q226,J.H.S. 226 Virgil I. Grissom,27Q226         ,342700010226,Junior High-Intermediate-Middle,1473,NULL,NULL,NULL,NULL
+9,Q410,Beach Channel High School,27Q410         ,342700011410,High school,1319,NULL,NULL,NULL,NULL
+10,X012,P.S. X012 Lewis and Clark School,75X012         ,307500012012,K-12 all grades,289,NULL,NULL,NULL,NULL
+11,X340,P.S. 340,10X340         ,321000010340,Elementary,544,NULL,NULL,NULL,NULL
+12,X544,High School for Contemporary Arts,11X544         ,321100011544,High school,471,NULL,NULL,NULL,NULL
+13,K195,P.S. 195 Manhattan Beach,22K195         ,332200010195,Elementary,392,NULL,NULL,NULL,NULL
+14,K309,P.S. 309 The George E. Wibecan Preparatory Academy,16K309         ,331600010309,Elementary,343,NULL,NULL,NULL,NULL
+15,K497,School for International Studies,15K497         ,331500011497,Secondary School,445,NULL,NULL,NULL,NULL
+16,K811,P.S. K811 Connie Lekas School,75K811         ,307500013811,Secondary School,387,NULL,NULL,NULL,NULL
+17,M407,Institute for Collaborative Education,02M407         ,310200011407,Secondary School,485,NULL,NULL,NULL,NULL
+18,Q084,P.S. 084 Steinway,30Q084         ,343000010084,K-8,415,NULL,NULL,NULL,NULL
+19,Q238,I.S. 238 - Susan B. Anthony Academy,29Q238         ,342900010238,Junior High-Intermediate-Middle,1629,NULL,NULL,NULL,NULL
+20,X087,P.S. 087 Bronx,11X087         ,321100010087,Elementary,567,NULL,NULL,NULL,NULL
+21,X670,Health Opportunities High School,07X670         ,320700011670,High school,616,NULL,NULL,NULL,NULL
+22,K615,Transit Tech Career and Technical Education High School,19K615         ,331900011615,High school,1543,NULL,NULL,NULL,NULL
+23,M129,P.S. 129 John H. Finley,05M129         ,310500010129,K-8,579,NULL,NULL,NULL,NULL
+24,M411,Baruch College Campus High School,02M411         ,310200011411,High school,440,NULL,NULL,NULL,NULL
+25,M542,Manhattan Bridges High School,02M542         ,310200011542,High school,509,NULL,NULL,NULL,NULL
+26,Q104,P.S. 104 The Bays Water,27Q104         ,342700010104,Elementary,650,NULL,NULL,NULL,NULL
+27,Q202,J.H.S. 202 Robert H. Goddard,27Q202         ,342700010202,Junior High-Intermediate-Middle,1096,NULL,NULL,NULL,NULL
+28,R460,Susan E. Wagner High School,31R460         ,353100011460,High school,3306,NULL,NULL,NULL,NULL
+29,X107,P.S. 107,08X107         ,320800010107,Elementary,550,NULL,NULL,NULL,NULL
+30,X123,J.H.S. 123 James M. Kieran,08X123         ,320800010123,Junior High-Intermediate-Middle,567,NULL,NULL,NULL,NULL
+31,K056,P.S. 056 Lewis H. Latimer,13K056         ,331300010056,Elementary,296,NULL,NULL,NULL,NULL
+32,K505,Franklin Delano Roosevelt High School,20K505         ,332000011505,High school,3486,NULL,NULL,NULL,NULL
+33,M255,M.S. 255 Salk School of Science,02M255         ,310200010255,Junior High-Intermediate-Middle,406,NULL,NULL,NULL,NULL
+34,Q116,PS/IS 116 William C. Hughley,29Q116         ,342900010116,K-8,922,NULL,NULL,NULL,NULL
+35,Q132,P.S. 132 Ralph Bunche,29Q132         ,342900010132,Elementary,395,NULL,NULL,NULL,NULL
+36,Q230,I.S. 230,30Q230         ,343000010230,Junior High-Intermediate-Middle,945,NULL,NULL,NULL,NULL
+37,X437,Fordham High School for the Arts,10X437         ,321000011437,High school,371,NULL,NULL,NULL,NULL
+38,K305,P.S. 305 Dr. Peter Ray,13K305         ,331300010305,Elementary,360,NULL,NULL,NULL,NULL
+39,K477,School for Legal Studies,14K477         ,331400011477,High school,836,NULL,NULL,NULL,NULL
+41,M089,P.S. 89,02M089         ,310200010089,Elementary,545,NULL,NULL,NULL,NULL
+43,Q136,P.S. 136 Roy Wilkins,29Q136         ,342900010136,Elementary,719,NULL,NULL,NULL,NULL
+44,Q234,P.S. 234,30Q234         ,343000010234,Elementary,688,NULL,NULL,NULL,NULL
+45,X083,P.S. 083 Donald Hertz,11X083         ,321100010083,K-8,1644,NULL,NULL,NULL,NULL
+46,X368,In-Tech Academy (M.S. / High School 368),10X368         ,321000010368,Secondary School,1074,NULL,NULL,NULL,NULL
+47,K048,P.S. 048 Mapleton,20K048         ,332000010048,Elementary,654,NULL,NULL,NULL,NULL
+48,M415,Wadleigh Secondary School for the Performing & Visual Arts,03M415         ,310300011415,Secondary School,544,NULL,NULL,NULL,NULL
+49,Q092,P.S. 092 Harry T. Stewart Sr.,30Q092         ,343000010092,Elementary,861,NULL,NULL,NULL,NULL
+50,Q108,P.S. 108 Captain Vincent G. Fowler,27Q108         ,342700010108,Elementary,1352,NULL,NULL,NULL,NULL
+51,Q206,P.S. 206 The Horace Harding School,28Q206         ,342800010206,Elementary,635,NULL,NULL,NULL,NULL
+52,Q222,P.S. Q222 - Fire Fighter Christopher A. Santora School,30Q222         ,343000010222,Early Childhood,329,NULL,NULL,NULL,NULL
+53,Q525,Townsend Harris High School,25Q525         ,342500011525,High school,1108,NULL,NULL,NULL,NULL
+54,X127,J.H.S. 127 The Castle Hill,11X127         ,321100010127,Junior High-Intermediate-Middle,734,NULL,NULL,NULL,NULL
+55,X540,School for Community Research and Learning,08X540         ,320800011540,High school,384,NULL,NULL,NULL,NULL
+56,K052,P.S. 052 Sheepshead Bay,22K052         ,332200010052,Elementary,759,NULL,NULL,NULL,NULL
+57,K285,I.S. 285 Meyer Levin,18K285         ,331800010285,Junior High-Intermediate-Middle,983,NULL,NULL,NULL,NULL
+58,M137,P.S. 137 John L. Bernstein,01M137         ,310100010137,Elementary,224,NULL,NULL,NULL,NULL
+59,M439,Manhattan Village Academy,02M439         ,310200011439,High school,449,NULL,NULL,NULL,NULL
+60,M550,Liberty High School Academy for Newcomers,02M550         ,310200011550,High school,420,NULL,NULL,NULL,NULL
+61,Q112,P.S. 112 Dutch Kills,30Q112         ,343000010112,Elementary,492,NULL,NULL,NULL,NULL
+62,X016,P.S. 016 Wakefield,11X016         ,321100010016,Elementary,633,NULL,NULL,NULL,NULL
+63,X131,J.H.S. 131 Albert Einstein,08X131         ,320800010131,Junior High-Intermediate-Middle,879,NULL,NULL,NULL,NULL
+64,X360,P.S. 360,10X360         ,321000010360,Elementary,482,NULL,NULL,NULL,NULL
+65,X433,High School for Teaching and the Professions,10X433         ,321000011433,High school,484,NULL,NULL,NULL,NULL
+66,X548,Urban Assembly School for Careers in Sports,07X548         ,320700011548,High school,341,NULL,NULL,NULL,NULL
+67,K199,P.S. 199 Frederick Wachtel,21K199         ,332100010199,Elementary,527,NULL,NULL,NULL,NULL
+68,K297,P.S. 297 Abraham Stockton,14K297         ,331400010297,Elementary,327,NULL,NULL,NULL,NULL
+69,M125,P.S. 125 Ralph Bunche,05M125         ,310500010125,Elementary,238,NULL,NULL,NULL,NULL
+70,M223,The Mott Hall School,06M223         ,310600010223,Junior High-Intermediate-Middle,370,NULL,NULL,NULL,NULL
+71,Q088,P.S. 088 Seneca,24Q088         ,342400010088,Elementary,1079,NULL,NULL,NULL,NULL
+72,X103,P.S. 103 Hector Fontanez,11X103         ,321100010103,Elementary,1165,NULL,NULL,NULL,NULL
+73,X405,Herbert H. Lehman High School.,08X405         ,320800011405,High school,4115,NULL,NULL,NULL,NULL
+74,K299,P.S. 299 Thomas Warren Field,32K299         ,333200010299,Elementary,469,NULL,NULL,NULL,NULL
+75,K311,Essence School,19K311         ,331900010311,Junior High-Intermediate-Middle,240,NULL,NULL,NULL,NULL
+77,M225,Ella Baker School,02M225         ,310200011225,K-8,327,NULL,NULL,NULL,NULL
+78,M540,A. Philip Randolph Campus High School,06M540         ,310600011540,High school,1473,NULL,NULL,NULL,NULL
+79,Q102,P.S. 102 Bayview,24Q102         ,342400010102,K-8,1024,NULL,NULL,NULL,NULL
+80,Q200,PS/MS 200 - The Pomonok School & STAR Academy,25Q200         ,342500010200,K-8,480,NULL,NULL,NULL,NULL
+81,R045,P.S. 045 John Tyler,31R045         ,353100010045,Elementary,1004,NULL,NULL,NULL,NULL
+82,X105,P.S. 105 Sen Abraham Bernstein,11X105         ,321100010105,Elementary,1465,NULL,NULL,NULL,NULL
+83,X121,P.S. 121 Throop,11X121         ,321100010121,Elementary,895,NULL,NULL,NULL,NULL
+84,K189,P.S. 189 The Bilingual Center,17K189         ,331700010189,K-8,1218,NULL,NULL,NULL,NULL
+85,K287,P.S. 287 Bailey K. Ashford,13K287         ,331300010287,Elementary,187,NULL,NULL,NULL,NULL
+86,M083,P.S. 083 Luis Munoz Rivera,04M083         ,310400010083,Elementary,439,NULL,NULL,NULL,NULL
+87,M552,Gregorio Luperon High School for Science and Mathematics,06M552         ,310600011552,High school,486,NULL,NULL,NULL,NULL
+88,Q114,P.S. / M.S. 114 Belle Harbor,27Q114         ,342700010114,K-8,808,NULL,NULL,NULL,NULL
+89,Q130,P.S. 130,25Q130         ,342500010130,Elementary,307,NULL,NULL,NULL,NULL
+90,R600,Ralph R. McKee Career and Technical Education High School,31R600         ,353100011600,High school,753,NULL,NULL,NULL,NULL
+91,X018,P.S. 018 John Peter Zenger,07X018         ,320700010018,Elementary,521,NULL,NULL,NULL,NULL
+92,K291,J.H.S. 291 Roland Hayes,32K291         ,333200010291,Junior High-Intermediate-Middle,658,NULL,NULL,NULL,NULL
+93,K495,Sheepshead Bay High School,22K495         ,332200011495,High school,2272,NULL,NULL,NULL,NULL
+94,Q082,P.S. 082 Hammond,28Q082         ,342800010082,Elementary,627,NULL,NULL,NULL,NULL
+95,Q138,P.S./ M.S.138 Sunrise,29Q138         ,342900010138,K-8,906,NULL,NULL,NULL,NULL
+96,Q555,Newcomers High School,30Q555         ,343000011555,High school,915,NULL,NULL,NULL,NULL
+97,X085,P.S. 085 Great Expectations,10X085         ,321000010085,Elementary,1195,NULL,NULL,NULL,NULL
+98,K165,P.S. 165 Ida Posner,23K165         ,332300010165,K-8,650,NULL,NULL,NULL,NULL
+99,K181,P.S. 181 Brooklyn,17K181         ,331700010181,K-8,1218,NULL,NULL,NULL,NULL
+100,K335,P.S. 335 Granville T. Woods,16K335         ,331600010335,Elementary,436,NULL,NULL,NULL,NULL
+101,M131,M.S. 131,02M131         ,310200010131,Junior High-Intermediate-Middle,793,NULL,NULL,NULL,NULL
+102,Q094,P.S. 094 David D. Porter,26Q094         ,342600010094,Elementary,444,NULL,NULL,NULL,NULL
+103,Q208,P.S. / I.S. 208,29Q208         ,342900010208,K-8,733,NULL,NULL,NULL,NULL
+104,Q224,P.S. Q224,75Q224         ,307500014224,K-8,430,NULL,NULL,NULL,NULL
+105,X010,P.S. X010,75X010         ,307500012010,K-12 all grades,441,NULL,NULL,NULL,NULL
+106,X129,M.S. 129 Academy for Independent Learning and Leadership,12X129         ,321200010129,Junior High-Intermediate-Middle,576,NULL,NULL,NULL,NULL
+107,X542,Pelham Preparatory Academy,11X542         ,321100011542,High school,506,NULL,NULL,NULL,NULL
+108,K185,P.S. 185 Walter Kassenbrock,20K185         ,332000010185,Elementary,832,NULL,NULL,NULL,NULL
+109,Q228,P.S. 228 Early Childhood Magnet School of the Arts,30Q228         ,343000010228,Early Childhood,394,NULL,NULL,NULL,NULL
+110,X014,P.S. X014 Senator John Calandra,08X014         ,320800010014,Elementary,562,NULL,NULL,NULL,NULL
+111,X546,Bronx Theatre High School,10X546         ,321000011546,High school,419,NULL,NULL,NULL,NULL
+112,K295,P.S. 295,15K295         ,331500010295,Elementary,399,NULL,NULL,NULL,NULL
+113,K499,ACORN Community High School,13K499         ,331300011499,High school,696,NULL,NULL,NULL,NULL
+114,M409,Coalition School for Social Change,04M409         ,310400011409,High school,385,NULL,NULL,NULL,NULL
+115,Q400,August Martin High School,27Q400         ,342700011400,High school,1222,NULL,NULL,NULL,NULL
+116,R041,P.S. 041 New Dorp,31R041         ,353100010041,Elementary,694,NULL,NULL,NULL,NULL
+117,X089,P.S. 089 Bronx,11X089         ,321100010089,K-8,1316,NULL,NULL,NULL,NULL
+118,X101,M.S. X101 Edward R. Byrne,08X101         ,320800010101,Junior High-Intermediate-Middle,469,NULL,NULL,NULL,NULL
+119,X403,Bronx International High School,09X403         ,320900011403,High school,356,NULL,NULL,NULL,NULL
+120,K046,P.S. 046 Edward C. Blum,13K046         ,331300010046,Elementary,375,NULL,NULL,NULL,NULL
+121,K161,P.S. 161 The Crown,17K161         ,331700010161,K-8,900,NULL,NULL,NULL,NULL
+122,K463,Secondary School for Journalism,15K463         ,331500011463,Secondary School,442,NULL,NULL,NULL,NULL
+123,K519,Cobble Hill School of American Studies,15K519         ,331500011519,High school,718,NULL,NULL,NULL,NULL
+124,M413,School of the Future High School,02M413         ,310200010413,Secondary School,689,NULL,NULL,NULL,NULL
+125,M544,Independence High School,02M544         ,310200011544,High school,437,NULL,NULL,NULL,NULL
+126,Q204,I.S. 204 Oliver W. Holmes,30Q204         ,343000010204,Junior High-Intermediate-Middle,756,NULL,NULL,NULL,NULL
+127,Q220,P.S. 220 Edward Mandel,28Q220         ,342800010220,Elementary,506,NULL,NULL,NULL,NULL
+128,R049,I.S. 49 Berta A. Dreyfus,31R049         ,353100010049,Junior High-Intermediate-Middle,886,NULL,NULL,NULL,NULL
+129,X109,P.S. 109 Sedgwick,09X109         ,320900010109,Elementary,753,NULL,NULL,NULL,NULL
+130,X125,J.H.S. 125 Henry Hudson,08X125         ,320800010125,Junior High-Intermediate-Middle,701,NULL,NULL,NULL,NULL
+131,X223,M.S. 223 The Laboratory School of Finance and Technology,07X223         ,320700010223,Junior High-Intermediate-Middle,469,NULL,NULL,NULL,NULL
+132,K058,P.S. 058 The Carroll,15K058         ,331500010058,Elementary,707,NULL,NULL,NULL,NULL
+133,K303,I.S. 303 Herbert S. Eisenberg,21K303         ,332100010303,Junior High-Intermediate-Middle,746,NULL,NULL,NULL,NULL
+134,K605,George Westinghouse Career and Technical Education High School,13K605         ,331300011605,High school,963,NULL,NULL,NULL,NULL
+135,M087,P.S. 087 William Sherman,03M087         ,310300010087,Elementary,1004,NULL,NULL,NULL,NULL
+136,M401,Hospital Schools,75M401         ,307500011401,K-12 all grades,209,NULL,NULL,NULL,NULL
+137,M670,Thurgood Marshall Academy for Learning and Social Change,05M670         ,310500011670,Secondary School,570,NULL,NULL,NULL,NULL
+138,Q118,P.S. 118 Lorraine Hansberry,29Q118         ,342900010118,Elementary,679,NULL,NULL,NULL,NULL
+139,X081,P.S. 081 Robert J. Christen,10X081         ,321000010081,Elementary,685,NULL,NULL,NULL,NULL
+140,X439,Bronx High School for Law and Community Service,10X439         ,321000011439,High school,451,NULL,NULL,NULL,NULL
+141,X550,High School of World Cultures,12X550         ,321200011550,High school,318,NULL,NULL,NULL,NULL
+142,K302,J.H.S. 302 Rafael Cordero,19K302         ,331900010302,Junior High-Intermediate-Middle,1017,NULL,NULL,NULL,NULL
+143,K474,PROGRESS High School for Professional Careers,14K474         ,331400011474,High school,981,NULL,NULL,NULL,NULL
+144,K490,Fort Hamilton High School,20K490         ,332000011490,High school,4270,NULL,NULL,NULL,NULL
+145,M256,M.S. 256 Academic & Athletic Excellence,03M256         ,310300010256,Junior High-Intermediate-Middle,185,NULL,NULL,NULL,NULL
+146,M400,High School for Environmental Studies,02M400         ,310200011400,High school,1418,NULL,NULL,NULL,NULL
+147,Q081,P.S. 81Q Jean Paul Richter,24Q081         ,342400010081,Elementary,1136,NULL,NULL,NULL,NULL
+148,Q137,M.S. 137 Americas School of Heroes,27Q137         ,342700010137,Junior High-Intermediate-Middle,1923,NULL,NULL,NULL,NULL
+149,Q235,Academy for New Americans,30Q235         ,343000010235,Junior High-Intermediate-Middle,163,NULL,NULL,NULL,NULL
+150,Q550,High School for Arts and Business,24Q550         ,342400011550,High school,764,NULL,NULL,NULL,NULL
+151,X080,J.H.S. 080 The Mosholu Parkway,10X080         ,321000010080,Junior High-Intermediate-Middle,620,NULL,NULL,NULL,NULL
+152,X438,Fordham Leadership Academy for Business and Technology,10X438         ,321000011438,High school,495,NULL,NULL,NULL,NULL
+153,K160,P.S. 160 William T. Sampson,20K160         ,332000010160,Elementary,846,NULL,NULL,NULL,NULL
+154,K462,Secondary School for Law,15K462         ,331500011462,Secondary School,556,NULL,NULL,NULL,NULL
+155,M015,P.S. 015 Roberto Clemente,01M015         ,310100010015,Elementary,208,NULL,NULL,NULL,NULL
+156,M412,N.Y.C. Lab School for Collaborative Studies,02M412         ,310200010412,High school,520,NULL,NULL,NULL,NULL
+157,Q093,I.S. 093 Ridgewood,24Q093         ,342400010093,Junior High-Intermediate-Middle,1309,NULL,NULL,NULL,NULL
+158,Q109,Jean Nuzzi Intermediate School,29Q109         ,342900010109,Junior High-Intermediate-Middle,1143,NULL,NULL,NULL,NULL
+159,Q207,P.S. 207 Rockwood Park,27Q207         ,342700010207,K-8,772,NULL,NULL,NULL,NULL
+160,Q223,P.S. 223 Lyndon B. Johnson,27Q223         ,342700010223,Elementary,673,NULL,NULL,NULL,NULL
+161,X108,P.S. 108 Philip J. Abinanti,11X108         ,321100010108,Elementary,599,NULL,NULL,NULL,NULL
+162,X541,Global Enterprise High School,11X541         ,321100011541,High school,467,NULL,NULL,NULL,NULL
+163,K053,P.S. K053,75K053         ,307500013053,K-12 all grades,372,NULL,NULL,NULL,NULL
+164,K184,P.S. 184 Newport,23K184         ,332300010184,K-8,523,NULL,NULL,NULL,NULL
+165,K282,P.S. 282 Park Slope,13K282         ,331300010282,K-8,889,NULL,NULL,NULL,NULL
+166,M134,P.S. 134 Henrietta Szold,01M134         ,310100010134,Elementary,376,NULL,NULL,NULL,NULL
+167,Q415,Benjamin N. Cardozo High School,26Q415         ,342600011415,High school,4018,NULL,NULL,NULL,NULL
+168,X017,P.S. X017,75X017         ,307500012017,K-8,366,NULL,NULL,NULL,NULL
+169,X549,Discovery High School,10X549         ,321000011549,High school,451,NULL,NULL,NULL,NULL
+170,K041,P.S. 041 Francis White,23K041         ,332300010041,K-8,695,NULL,NULL,NULL,NULL
+171,K196,P.S. 196 Ten Eyck,14K196         ,331400010196,Elementary,413,NULL,NULL,NULL,NULL
+172,K498,Brooklyn High School for Law and Technology,16K498         ,331600011498,High school,421,NULL,NULL,NULL,NULL
+173,M408,Professional Performing Arts High School,02M408         ,310200011408,Secondary School,467,NULL,NULL,NULL,NULL
+174,Q089,P.S. 089 Elmhurst,24Q089         ,342400010089,Elementary,1719,NULL,NULL,NULL,NULL
+175,Q101,P.S. 101 School in the Gardens,28Q101         ,342800010101,Elementary,647,NULL,NULL,NULL,NULL
+176,X088,P.S. X088 - S. Silverstein Little Sparrow School,09X088         ,320900010088,Elementary,292,NULL,NULL,NULL,NULL
+177,X100,P.S. 100 Isaac Clason,08X100         ,320800010100,Elementary,699,NULL,NULL,NULL,NULL
+178,K045,P.S./I.S. 045 Horace E. Greene,32K045         ,333200010045,Elementary,763,NULL,NULL,NULL,NULL
+179,K298,P.S. 298 Dr. Betty Shabazz,23K298         ,332300010298,K-8,566,NULL,NULL,NULL,NULL
+180,M011,P.S. 011 William T. Harris,02M011         ,310200010011,Elementary,571,NULL,NULL,NULL,NULL
+181,M126,P.S. 126 Jacob August Riis,02M126         ,310200010126,K-8,786,NULL,NULL,NULL,NULL
+182,M224,M.S. 224 Manhattan East School for Arts & Academics,04M224         ,310400010224,Junior High-Intermediate-Middle,259,NULL,NULL,NULL,NULL
+183,M543,New Design High School,02M543         ,310200011543,High school,412,NULL,NULL,NULL,NULL
+184,Q105,P.S. 105 The Bay School,27Q105         ,342700010105,K-8,952,NULL,NULL,NULL,NULL
+185,Q203,P.S. 203 Oakland Gardens,26Q203         ,342600010203,Elementary,797,NULL,NULL,NULL,NULL
+186,R044,P.S. 044 Thomas C. Brown,31R044         ,353100010044,Elementary,879,NULL,NULL,NULL,NULL
+187,K057,J.H.S. 057 Whitelaw Reid,16K057         ,331600010057,Junior High-Intermediate-Middle,239,NULL,NULL,NULL,NULL
+188,K600,Clara Barton High School,17K600         ,331700011600,High school,1980,NULL,NULL,NULL,NULL
+189,M138,P.S. 138,75M138         ,307500011138,K-12 all grades,426,NULL,NULL,NULL,NULL
+190,M555,Central Park East High School,04M555         ,310400011555,High school,332,NULL,NULL,NULL,NULL
+191,Q117,P.S. 117 J. Keld / Briarwood School,28Q117         ,342800010117,Elementary,1176,NULL,NULL,NULL,NULL
+193,X132,P.S. 132 Garret A. Morgan,09X132         ,320900010132,Elementary,558,NULL,NULL,NULL,NULL
+194,X230,P.S. 230 Dr Roland N. Patterson,09X230         ,320900010230,Elementary,410,NULL,NULL,NULL,NULL
+195,X434,Belmont Preparatory High School,10X434         ,321000011434,High school,413,NULL,NULL,NULL,NULL
+196,K192,P.S. 192 - The Magnet School for Math and Science Inquiry,20K192         ,332000010192,K-8,599,NULL,NULL,NULL,NULL
+197,K290,P.S. 290 Juan Morel Campos,19K290         ,331900010290,Elementary,592,NULL,NULL,NULL,NULL
+198,K306,P.S. 306 Ethan Allen,19K306         ,331900010306,K-8,706,NULL,NULL,NULL,NULL
+199,K478,The High School for Enterprise Business and Technology,14K478         ,331400011478,High school,885,NULL,NULL,NULL,NULL
+200,M102,P.S. 102 Jacques Cartier,04M102         ,310400010102,Elementary,316,NULL,NULL,NULL,NULL
+201,Q085,P.S. 085 Judge Charles Vallone,30Q085         ,343000010085,Elementary,513,NULL,NULL,NULL,NULL
+202,Q239,P.S. 239,24Q239         ,342400010239,Elementary,790,NULL,NULL,NULL,NULL
+203,K164,P.S. 164 Caesar Rodney,20K164         ,332000010164,Elementary,464,NULL,NULL,NULL,NULL
+204,K180,The SEEALL Academy,20K180         ,332000010180,K-8,1221,NULL,NULL,NULL,NULL
+205,K318,I.S. 318 Eugenio Maria De Hostos,14K318         ,331400010318,Junior High-Intermediate-Middle,1613,NULL,NULL,NULL,NULL
+206,M019,P.S. 019 Asher Levy,01M019         ,310100010019,Elementary,321,NULL,NULL,NULL,NULL
+207,M130,P.S. 130 Hernando De Soto,02M130         ,310200010130,Elementary,1029,NULL,NULL,NULL,NULL
+208,M416,Eleanor Roosevelt High School,02M416         ,310200010416,High school,498,NULL,NULL,NULL,NULL
+209,Q097,P.S. 097 Forest Park,27Q097         ,342700010097,Elementary,754,NULL,NULL,NULL,NULL
+210,Q227,I.S. 227 Louis Armstrong,30Q227         ,343000011227,Junior High-Intermediate-Middle,1483,NULL,NULL,NULL,NULL
+211,X226,P.S. 226,10X226         ,321000010226,Elementary,404,NULL,NULL,NULL,NULL
+212,X545,Bronx Aerospace High School,11X545         ,321100011545,High school,403,NULL,NULL,NULL,NULL
+213,K051,M.S. 51 William Alexander,15K051         ,331500010051,Junior High-Intermediate-Middle,1071,NULL,NULL,NULL,NULL
+214,K166,J.H.S. 166 George Gershwin,19K166         ,331900010166,Junior High-Intermediate-Middle,559,NULL,NULL,NULL,NULL
+215,K753,P.S. K753 - School for Career Development,75K753         ,307500013753,High school,336,NULL,NULL,NULL,NULL
+216,M132,P.S. 132 Juan Pablo Duarte,06M132         ,310600010132,Elementary,781,NULL,NULL,NULL,NULL
+217,M418,Millennium High School,02M418         ,310200010418,High school,619,NULL,NULL,NULL,NULL
+218,Q111,P.S. 111 Jacob Blackwell,30Q111         ,343000010111,K-8,440,NULL,NULL,NULL,NULL
+219,Q229,P.S. 229 Emanuel Kaplan,24Q229         ,342400010229,Elementary,1339,NULL,NULL,NULL,NULL
+220,X015,P.S. X015 Institute for Environmental Learning,10X015         ,321000010015,K-8,577,NULL,NULL,NULL,NULL
+221,X547,New Explorers High School,07X547         ,320700011547,High school,310,NULL,NULL,NULL,NULL
+222,K292,J.H.S. 292 Margaret S. Douglas,19K292         ,331900010292,Junior High-Intermediate-Middle,668,NULL,NULL,NULL,NULL
+223,K308,P.S. 308 Clara Cardwell,16K308         ,331600010308,K-8,719,NULL,NULL,NULL,NULL
+224,M104,J.H.S. 104 Simon Baruch,02M104         ,310200010104,Junior High-Intermediate-Middle,997,NULL,NULL,NULL,NULL
+225,Q087,P.S. / I.S. 087 Middle Village,24Q087         ,342400010087,K-8,570,NULL,NULL,NULL,NULL
+226,X086,P.S. 086 Kingsbridge Heights,10X086         ,321000010086,Elementary,1767,NULL,NULL,NULL,NULL
+227,M013,J.H.S. 013 Jackie Robinson,04M013         ,310400010013,Junior High-Intermediate-Middle,309,NULL,NULL,NULL,NULL
+228,M128,P.S. 128 Audubon,06M128         ,310600010128,Elementary,735,NULL,NULL,NULL,NULL
+229,M226,P.S. M226,75M226         ,307500011226,K-12 all grades,272,NULL,NULL,NULL,NULL
+230,M545,High School for Dual Language and Asian Studies,02M545         ,310200011545,High school,324,NULL,NULL,NULL,NULL
+231,Q091,P.S. 091 Richard Arkwright,24Q091         ,342400010091,Elementary,881,NULL,NULL,NULL,NULL
+232,Q107,P.S. 107 Thomas A Dooley,25Q107         ,342500010107,Elementary,932,NULL,NULL,NULL,NULL
+233,Q205,P.S. 205 Alexander Graham Bell,26Q205         ,342600010205,Elementary,292,NULL,NULL,NULL,NULL
+234,Q520,Middle College High School at LaGuardia Community College,24Q520         ,342400011520,High school,457,NULL,NULL,NULL,NULL
+235,X106,P.S. 106 Parkchester,11X106         ,321100010106,Elementary,1231,NULL,NULL,NULL,NULL
+236,K288,P.S. 288 The Shirley Tanyhill,21K288         ,332100010288,K-8,549,NULL,NULL,NULL,NULL
+237,M084,P.S. 084 Lillian Weber,03M084         ,310300010084,Elementary,488,NULL,NULL,NULL,NULL
+238,Q119,I.S. 119 The Glendale,24Q119         ,342400010119,Junior High-Intermediate-Middle,1100,NULL,NULL,NULL,NULL
+239,Q135,The Bellaire School,29Q135         ,342900010135,Elementary,1163,NULL,NULL,NULL,NULL
+240,Q233,P.S. Q233,75Q233         ,307500014233,K-12 all grades,386,NULL,NULL,NULL,NULL
+241,R605,Staten Island Technical High School,31R605         ,353100011605,High school,1015,NULL,NULL,NULL,NULL
+242,X232,I.S. 232,09X232         ,320900010232,Junior High-Intermediate-Middle,428,NULL,NULL,NULL,NULL
+243,X551,The Urban Assembly Bronx Academy of Letters,07X551         ,320700011551,Secondary School,581,NULL,NULL,NULL,NULL
+244,K190,P.S. 190 Sheffield,19K190         ,331900010190,Elementary,286,NULL,NULL,NULL,NULL
+245,K721,P.S. K721 - Brooklyn Occupational Training Center,75K721         ,307500013721,High school,488,NULL,NULL,NULL,NULL
+246,M258,Community Action School - MS 258,03M258         ,310300010258,Junior High-Intermediate-Middle,254,NULL,NULL,NULL,NULL
+247,Q139,P.S. 139 Rego Park,28Q139         ,342800010139,Elementary,880,NULL,NULL,NULL,NULL
+248,Q237,I.S. 237,25Q237         ,342500010237,Junior High-Intermediate-Middle,1160,NULL,NULL,NULL,NULL
+249,X138,P.S. 138 Samuel Randall,08X138         ,320800010138,Elementary,974,NULL,NULL,NULL,NULL
+250,X236,P.S. 236 Langston Hughes,09X236         ,320900010236,Elementary,382,NULL,NULL,NULL,NULL
+251,K162,J.H.S. 162 The Willoughby,32K162         ,333200010162,Junior High-Intermediate-Middle,628,NULL,NULL,NULL,NULL
+252,K316,P.S. 316 Elijah Stroud,17K316         ,331700010316,Elementary,258,NULL,NULL,NULL,NULL
+253,K332,P.S. 332 Charles H. Houston,23K332         ,332300010332,K-8,500,NULL,NULL,NULL,NULL
+254,K464,Park Slope Collegiate,15K464         ,331500011464,Secondary School,479,NULL,NULL,NULL,NULL
+255,M414,N.Y.C. Museum School,02M414         ,310200010414,High school,467,NULL,NULL,NULL,NULL
+256,Q209,P.S. 209 Clearview Gardens,25Q209         ,342500010209,Elementary,567,NULL,NULL,NULL,NULL
+257,Q540,Queens Academy High School,25Q540         ,342500011540,High school,423,NULL,NULL,NULL,NULL
+258,X011,P.S. 011 Highbridge,09X011         ,320900010011,Elementary,709,NULL,NULL,NULL,NULL
+259,X126,P.S. 126 Dr Marjorie H Dunbar,09X126         ,320900010126,Elementary,773,NULL,NULL,NULL,NULL
+260,X224,P.S. / I.S. 224,07X224         ,320700010224,Junior High-Intermediate-Middle,347,NULL,NULL,NULL,NULL
+261,X543,High School for Violin and Dance,09X543         ,320900011543,High school,212,NULL,NULL,NULL,NULL
+262,K284,P.S. 284 Lew Wallace,23K284         ,332300010284,K-8,544,NULL,NULL,NULL,NULL
+264,M234,P.S. 234 Independence School,02M234         ,310200010234,Elementary,820,NULL,NULL,NULL,NULL
+265,M250,M.S. 250 West Side Collaborative Middle School,03M250         ,310300010250,Junior High-Intermediate-Middle,185,NULL,NULL,NULL,NULL
+266,Q115,P.S. 115 Glen Oaks,26Q115         ,342600010115,Elementary,489,NULL,NULL,NULL,NULL
+267,X019,P.S. 019 Judith K. Weiss,11X019         ,321100010019,K-8,521,NULL,NULL,NULL,NULL
+268,X130,P.S. 130 Abram Stevens Hewitt,08X130         ,320800010130,Elementary,543,NULL,NULL,NULL,NULL
+269,K198,P.S. 198 Brooklyn,22K198         ,332200010198,Elementary,640,NULL,NULL,NULL,NULL
+270,K296,I.S. 296 - The Anna Gonzalez Community School,32K296         ,333200010296,Junior High-Intermediate-Middle,552,NULL,NULL,NULL,NULL
+271,K610,Automotive High School,14K610         ,331400011610,High school,982,NULL,NULL,NULL,NULL
+272,M108,P.S. 108 Assemblyman Angelo Del Toro Educational Complex,04M108         ,310400010108,K-8,729,NULL,NULL,NULL,NULL
+273,M124,P.S. 124 Yung Wing,02M124         ,310200010124,Elementary,962,NULL,NULL,NULL,NULL
+274,M541,Manhattan / Hunter Science High School,03M541         ,310300011541,High school,437,NULL,NULL,NULL,NULL
+275,Q201,P.S. 201 The Discovery School for Inquiry and Research,25Q201         ,342500010201,Elementary,446,NULL,NULL,NULL,NULL
+276,R042,P.S. 042 Eltingville,31R042         ,353100010042,Elementary,1010,NULL,NULL,NULL,NULL
+277,X404,School for Excellence,09X404         ,320900011404,High school,444,NULL,NULL,NULL,NULL
+278,K084,P.S. 084 Jose De Diego,14K084         ,331400010084,Elementary,458,NULL,NULL,NULL,NULL
+279,K238,P.S. 238 Anne Sullivan,21K238         ,332100010238,K-8,522,NULL,NULL,NULL,NULL
+280,K254,P.S. 254 Dag Hammarskjold,22K254         ,332200010254,Elementary,598,NULL,NULL,NULL,NULL
+281,M050,P.S. 050 Vito Marcantonio,04M050         ,310400010050,K-8,438,NULL,NULL,NULL,NULL
+282,M169,P.S. M169 - Robert F. Kennedy,75M169         ,307500011169,K-12 all grades,278,NULL,NULL,NULL,NULL
+283,X048,P.S. 048 Joseph R. Drake,08X048         ,320800010048,Elementary,913,NULL,NULL,NULL,NULL
+284,X163,P.S. 163 Arthur A. Schomburg,09X163         ,320900010163,Elementary,651,NULL,NULL,NULL,NULL
+285,K013,P.S. 013 Roberto Clemente,19K013         ,331900010013,Elementary,566,NULL,NULL,NULL,NULL
+286,K128,P.S. 128 Bensonhurst,21K128         ,332100010128,Elementary,381,NULL,NULL,NULL,NULL
+287,K226,P.S. 226 Alfred De B.Mason,21K226         ,332100010226,K-8,795,NULL,NULL,NULL,NULL
+288,K545,EBC High School for Public Service - Bushwick,32K545         ,333200011545,High school,710,NULL,NULL,NULL,NULL
+289,Q270,The Gordon Parks School,29Q270         ,342900010270,K-8,644,NULL,NULL,NULL,NULL
+290,X477,Marble Hill High School for International Studies,10X477         ,321000011477,High school,445,NULL,NULL,NULL,NULL
+291,X607,ALC -  Lafayette Academy,88X607         ,NULL,High school,5,NULL,NULL,NULL,NULL
+292,K132,P.S. 132 The Conselyea School,14K132         ,331400010132,Elementary,733,NULL,NULL,NULL,NULL
+293,K230,P.S. 230 Doris L. Cohen,15K230         ,331500010230,Elementary,1230,NULL,NULL,NULL,NULL
+294,M161,P.S. 161 Pedro Albizu Campos,05M161         ,310500010161,K-8,886,NULL,NULL,NULL,NULL
+295,M463,High School for Media and Communications,06M463         ,310600011463,High school,620,NULL,NULL,NULL,NULL
+296,M519,Talent Unlimited High School,02M519         ,310200011519,High school,419,NULL,NULL,NULL,NULL
+297,Q025,I.S. 025 Adrien Block,25Q025         ,342500010025,Junior High-Intermediate-Middle,830,NULL,NULL,NULL,NULL
+298,X024,P.S. 024 Spuyten Duyvil,10X024         ,321000010024,Elementary,805,NULL,NULL,NULL,NULL
+299,X199,P.S. 199X - The Shakespeare School,09X199         ,320900010199,Elementary,762,NULL,NULL,NULL,NULL
+300,K377,P.S. 377 Alejandrina B. De Gautier,32K377         ,333200010377,K-8,805,NULL,NULL,NULL,NULL
+301,M475,Stuyvesant High School,02M475         ,310200011475,High school,3277,NULL,NULL,NULL,NULL
+302,M605,Humanities Preparatory Academy,02M605         ,310200011605,High school,186,NULL,NULL,NULL,NULL
+303,Q053,M.S. 053 Brian Piccolo,27Q053         ,342700010053,Junior High-Intermediate-Middle,547,NULL,NULL,NULL,NULL
+304,Q266,P.S. / I.S. 266,26Q266         ,342600010266,K-8,662,NULL,NULL,NULL,NULL
+305,X754,J. M. Rapport School Career Development,75X754         ,307500012754,High school,640,NULL,NULL,NULL,NULL
+306,K124,P.S. 124 Silas B. Dutcher,15K124         ,331500010124,Elementary,321,NULL,NULL,NULL,NULL
+307,M479,Beacon High School,03M479         ,310300011479,High school,1144,NULL,NULL,NULL,NULL
+308,Q470,Jamaica High School,28Q470         ,342800011470,High school,1474,NULL,NULL,NULL,NULL
+309,Q687,Queens High School for the Sciences at York College,28Q687         ,342800011687,High school,415,NULL,NULL,NULL,NULL
+310,X056,P.S. 056 Norwood Heights,10X056         ,321000010056,Elementary,575,NULL,NULL,NULL,NULL
+311,X301,M.S. 301 Paul L. Dunbar,08X301         ,320800010301,Junior High-Intermediate-Middle,326,NULL,NULL,NULL,NULL
+312,X473,Mott Haven Village Preparatory High School,07X473         ,320700011473,High school,341,NULL,NULL,NULL,NULL
+313,X811,P.S. X811,75X811         ,307500012811,Secondary School,642,NULL,NULL,NULL,NULL
+314,K136,I.S. 136 Charles O. Dewey,15K136         ,331500010136,Junior High-Intermediate-Middle,496,NULL,NULL,NULL,NULL
+315,K234,J.H.S. 234 Arthur W. Cunningham,22K234         ,332200010234,Junior High-Intermediate-Middle,1861,NULL,NULL,NULL,NULL
+316,K369,P.S. K369  - Coy L. Cox School,75K369         ,307500013369,K-12 all grades,571,NULL,NULL,NULL,NULL
+317,K553,Brooklyn Academy High School,13K553         ,331300011553,High school,217,NULL,NULL,NULL,NULL
+318,M165,P.S. 165 Robert E. Simon,03M165         ,310300010165,K-8,688,NULL,NULL,NULL,NULL
+319,M467,High School for Law and Public Service,06M467         ,310600011467,High school,678,NULL,NULL,NULL,NULL
+320,Q029,P.S. 029 Queens,25Q029         ,342500010029,Elementary,652,NULL,NULL,NULL,NULL
+321,X028,P.S. 028 Mount Hope,09X028         ,320900010028,Elementary,764,NULL,NULL,NULL,NULL
+322,X313,I.S. 313 School of Leadership Development,09X313         ,320900010313,Junior High-Intermediate-Middle,432,NULL,NULL,NULL,NULL
+323,K088,J.H.S. 088 Peter Rouget,15K088         ,331500010088,Junior High-Intermediate-Middle,875,NULL,NULL,NULL,NULL
+324,K373,P.S. 373 - Brooklyn Transition Center,75K373         ,307500013373,High school,339,NULL,NULL,NULL,NULL
+325,M054,J.H.S. 054 Booker T. Washington,03M054         ,310300010054,Junior High-Intermediate-Middle,814,NULL,NULL,NULL,NULL
+326,M586,Harvey Milk High School,02M586         ,310200011586,High school,98,NULL,NULL,NULL,NULL
+327,Q033,P.S. 033 Edward M. Funk,29Q033         ,342900010033,Elementary,1041,NULL,NULL,NULL,NULL
+328,Q164,P.S. 164 Queens Valley,25Q164         ,342500010164,K-8,634,NULL,NULL,NULL,NULL
+329,K017,P.S. 017 Henry D. Woodworth,14K017         ,331400010017,Elementary,390,NULL,NULL,NULL,NULL
+330,K361,P.S. 361 East Flatbush Early Childhood School,22K361         ,332200010361,Early Childhood,627,NULL,NULL,NULL,NULL
+331,K430,Brooklyn Technical High School,13K430         ,331300011430,High school,4947,NULL,NULL,NULL,NULL
+332,K549,Bushwick School for Social Justice,32K549         ,333200011549,High school,420,NULL,NULL,NULL,NULL
+333,M515,Lower East Side Preparatory High School,01M515         ,310100011515,High school,551,NULL,NULL,NULL,NULL
+334,X020,P.S. 20 P.O.George J. Werdan III,10X020         ,321000010020,K-8,1079,NULL,NULL,NULL,NULL
+335,X195,P.S. 195,12X195         ,321200010195,Elementary,460,NULL,NULL,NULL,NULL
+336,K130,P.S. 130 The Parkside,15K130         ,331500010130,Elementary,558,NULL,NULL,NULL,NULL
+337,M028,P.S. 028 Wright Brothers,06M028         ,310600010028,Elementary,862,NULL,NULL,NULL,NULL
+339,M615,Chelsea Career and Technical Education High School,02M615         ,310200011615,High school,610,NULL,NULL,NULL,NULL
+340,Q023,P.S. Q023 @ Queens Children Center,75Q023         ,307500014023,K-12 all grades,372,NULL,NULL,NULL,NULL
+341,Q178,P.S./ IS 178 Holliswood,26Q178         ,342600010178,K-8,500,NULL,NULL,NULL,NULL
+342,R018,P.S. 018 John G. Whittier,31R018         ,353100010018,Elementary,593,NULL,NULL,NULL,NULL
+343,X022,J.H.S. 022 Jordan L. Mott,09X022         ,320900010022,Junior High-Intermediate-Middle,678,NULL,NULL,NULL,NULL
+344,K375,P.S. 375 Jackie Robinson School,17K375         ,331700010375,Elementary,554,NULL,NULL,NULL,NULL
+346,M289,I.S. 289,02M289         ,310200010289,Junior High-Intermediate-Middle,298,NULL,NULL,NULL,NULL
+347,Q035,P.S. 035 Nathaniel Woodhull,29Q035         ,342900010035,Elementary,622,NULL,NULL,NULL,NULL
+348,Q051,P.S. 051,27Q051         ,342700010051,Early Childhood,250,NULL,NULL,NULL,NULL
+349,Q166,P.S. 166 Henry Gradstein,30Q166         ,343000010166,Elementary,1076,NULL,NULL,NULL,NULL
+350,R006,P.S. 6 Corporal Allan F. Kivlehan School,31R006         ,353100010006,Elementary,867,NULL,NULL,NULL,NULL
+351,X050,P.S. 050 Clara Barton,12X050         ,321200010050,Elementary,573,NULL,NULL,NULL,NULL
+352,X339,I.S. 339,09X339         ,320900010339,Junior High-Intermediate-Middle,805,NULL,NULL,NULL,NULL
+353,K011,P.S. 011 Purvis J. Behan,13K011         ,331300010011,Elementary,574,NULL,NULL,NULL,NULL
+354,K126,John Ericsson Middle School 126,14K126         ,331400010126,Junior High-Intermediate-Middle,420,NULL,NULL,NULL,NULL
+355,K543,Science Technology and Research Early College High School at Erasmus,17K543         ,331700011543,Secondary School,491,NULL,NULL,NULL,NULL
+356,M020,P.S. 020 Anna Silver,01M020         ,310100010020,Elementary,594,NULL,NULL,NULL,NULL
+358,Q059,I.S. 059 Springfield Gardens,29Q059         ,342900010059,Junior High-Intermediate-Middle,828,NULL,NULL,NULL,NULL
+359,X475,John F. Kennedy High School,10X475         ,321000011475,High school,1291,NULL,NULL,NULL,NULL
+360,K138,P.S. 138 Brooklyn,17K138         ,331700010138,K-8,944,NULL,NULL,NULL,NULL
+361,K555,Brooklyn College Academy,22K555         ,332200011555,Secondary School,586,NULL,NULL,NULL,NULL
+362,M469,Choir Academy of Harlem,05M469         ,310500011469,Secondary School,417,NULL,NULL,NULL,NULL
+363,M580,Richard R. Green High School of Teaching,02M580         ,310200011580,High school,614,NULL,NULL,NULL,NULL
+364,Q460,Flushing High School,25Q460         ,342500011460,High school,2745,NULL,NULL,NULL,NULL
+365,X046,P.S. 046 Edgar Allan Poe,10X046         ,321000010046,Elementary,1291,NULL,NULL,NULL,NULL
+366,X161,P.S. 161 Ponce De Leon,07X161         ,320700010161,Elementary,599,NULL,NULL,NULL,NULL
+367,X315,P.S. 315 Lab School,10X315         ,321000010315,K-8,228,NULL,NULL,NULL,NULL
+368,K086,P.S. 086 The Irvington,32K086         ,333200010086,Elementary,537,NULL,NULL,NULL,NULL
+369,K256,P.S. 256 Benjamin Banneker,13K256         ,331300010256,Elementary,381,NULL,NULL,NULL,NULL
+370,K371,P.S. 371 - Lillian L. Rashkis,75K371         ,307500013371,High school,357,NULL,NULL,NULL,NULL
+372,K575,Bedford Stuyvesant Preparatory High School,13K575         ,331300011575,High school,112,NULL,NULL,NULL,NULL
+373,M052,J.H.S. 052 Inwood,06M052         ,310600010052,Junior High-Intermediate-Middle,828,NULL,NULL,NULL,NULL
+374,Q031,P.S. 031 Bayside,26Q031         ,342600010031,Elementary,551,NULL,NULL,NULL,NULL
+375,R002,I.S. R002 George L. Egbert,31R002         ,353100010002,Junior High-Intermediate-Middle,919,NULL,NULL,NULL,NULL
+376,K015,P.S. 015 Patrick F. Daly,15K015         ,331500010015,Elementary,390,NULL,NULL,NULL,NULL
+377,K228,I.S. 228 David A. Boody,21K228         ,332100010228,Junior High-Intermediate-Middle,872,NULL,NULL,NULL,NULL
+378,K547,Brooklyn Academy of Science and the Environment,17K547         ,331700011547,High school,446,NULL,NULL,NULL,NULL
+380,M040,P.S. 040 Augustus Saint-Gaudens,02M040         ,310200010040,Elementary,582,NULL,NULL,NULL,NULL
+381,M199,P.S. 199 Jessie Isador Straus,03M199         ,310300010199,Elementary,735,NULL,NULL,NULL,NULL
+382,Q174,P.S. 174 William Sidney Mount,28Q174         ,342800010174,Elementary,614,NULL,NULL,NULL,NULL
+383,Q721,John F. Kennedy Jr. School,75Q721         ,307500014721,High school,433,NULL,NULL,NULL,NULL
+384,R014,P.S. 014 Cornelius Vanderbilt,31R014         ,353100010014,Elementary,680,NULL,NULL,NULL,NULL
+385,X291,P.S. 291,10X291         ,321000010291,Elementary,552,NULL,NULL,NULL,NULL
+386,X495,University Heights Secondary School,07X495         ,320700011495,High school,450,NULL,NULL,NULL,NULL
+387,K134,P.S. K134,22K134         ,332200010134,Elementary,471,NULL,NULL,NULL,NULL
+389,M048,P.S. 048 P.O. Michael J. Buczek,06M048         ,310600010048,Elementary,608,NULL,NULL,NULL,NULL
+390,M163,P.S. 163 Alfred E. Smith,03M163         ,310300010163,Elementary,636,NULL,NULL,NULL,NULL
+391,M333,P.S. 333 Manhattan School for Children,03M333         ,310300010333,K-8,697,NULL,NULL,NULL,NULL
+392,Q440,Forest Hills High School,28Q440         ,342800011440,High school,3858,NULL,NULL,NULL,NULL
+393,Q610,Aviation Career & Technical Education High School,24Q610         ,342400011610,High school,2097,NULL,NULL,NULL,NULL
+394,R455,Tottenville High School,31R455         ,353100011455,High school,3875,NULL,NULL,NULL,NULL
+395,X042,P.S. 042 Claremont,09X042         ,320900010042,Elementary,519,NULL,NULL,NULL,NULL
+396,K220,J.H.S. 220 John J. Pershing,20K220         ,332000010220,Junior High-Intermediate-Middle,1290,NULL,NULL,NULL,NULL
+397,M191,P.S. 191 Amsterdam,03M191         ,310300010191,Elementary,481,NULL,NULL,NULL,NULL
+398,Q055,P.S. 055 Maure,28Q055         ,342800010055,Elementary,734,NULL,NULL,NULL,NULL
+399,Q268,PS/IS 268,29Q268         ,342900010268,K-8,565,NULL,NULL,NULL,NULL
+400,K223,J.H.S. 223 The Montauk,20K223         ,332000010223,Junior High-Intermediate-Middle,596,NULL,NULL,NULL,NULL
+401,M721,P.S. M721 - Manhattan Occupational Training Center,75M721         ,307500011721,High school,252,NULL,NULL,NULL,NULL
+402,Q038,P.S. 038 Rosedale,29Q038         ,342900010038,Elementary,259,NULL,NULL,NULL,NULL
+403,Q054,P.S. 054 Hillside,28Q054         ,342800010054,Elementary,571,NULL,NULL,NULL,NULL
+404,X057,P.S. 057 Crescent,12X057         ,321200010057,Elementary,479,NULL,NULL,NULL,NULL
+405,X600,Alfred E. Smith Career and Technical Education High School,07X600         ,320700011600,High school,1096,NULL,NULL,NULL,NULL
+406,K081,P.S. 081 Thaddeus Stevens,16K081         ,331600010081,Elementary,447,NULL,NULL,NULL,NULL
+407,K137,P.S./I.S. 137 Rachel Jean Mitchell,23K137         ,332300010137,K-8,365,NULL,NULL,NULL,NULL
+408,K235,P.S. 235 Lenox School,18K235         ,331800010235,K-8,1383,NULL,NULL,NULL,NULL
+409,K251,P.S. 251 Paerdegat,22K251         ,332200010251,Elementary,661,NULL,NULL,NULL,NULL
+410,K439,Brooklyn International High School,13K439         ,331300011439,High school,414,NULL,NULL,NULL,NULL
+411,M260,M.S. 260 Clinton School Writers & Artists,02M260         ,310200010260,Junior High-Intermediate-Middle,269,NULL,NULL,NULL,NULL
+412,Q026,P.S. 026 Rufus King,26Q026         ,342600010026,Elementary,612,NULL,NULL,NULL,NULL
+413,X029,P.S./M.S. 029 Melrose School,07X029         ,320700010029,K-8,755,NULL,NULL,NULL,NULL
+414,X045,Thomas C. Giordano Middle School 45,10X045         ,321000010045,Junior High-Intermediate-Middle,1016,NULL,NULL,NULL,NULL
+415,X310,P.S. 310 Marble Hill,10X310         ,321000010310,Elementary,695,NULL,NULL,NULL,NULL
+416,K089,P.S. 089 Cypress Hills,19K089         ,331900010089,K-8,274,NULL,NULL,NULL,NULL
+417,K259,J.H.S. 259 William Mckinley,20K259         ,332000010259,Junior High-Intermediate-Middle,1413,NULL,NULL,NULL,NULL
+418,K370,P.S. 370,75K370         ,307500013370,K-12 all grades,249,NULL,NULL,NULL,NULL
+419,Q030,P.S. 030 Queens,28Q030         ,342800010030,Elementary,578,NULL,NULL,NULL,NULL
+420,Q165,P.S. 165 Edith K. Bergtraum,25Q165         ,342500010165,Elementary,598,NULL,NULL,NULL,NULL
+421,X318,I.S. X318 Math Science & Technology Through Arts,12X318         ,321200010318,Junior High-Intermediate-Middle,379,NULL,NULL,NULL,NULL
+422,K014,J.H.S. 014 Shell Bank,22K014         ,332200010014,Junior High-Intermediate-Middle,709,NULL,NULL,NULL,NULL
+423,K546,High School for Public Service: Heroes  of Tomorrow,17K546         ,331700011546,High school,387,NULL,NULL,NULL,NULL
+424,K660,W. H. Maxwell Career and Technical Education High School,19K660         ,331900011660,High school,963,NULL,NULL,NULL,NULL
+425,M198,P.S. 198 Isador E. Ida Straus,02M198         ,310200010198,Elementary,542,NULL,NULL,NULL,NULL
+426,M610,Young Womens Leadership School,04M610         ,310400011610,Secondary School,437,NULL,NULL,NULL,NULL
+427,Q177,P.S. Q177,75Q177         ,307500014177,K-12 all grades,490,NULL,NULL,NULL,NULL
+428,X021,P.S. 021 Philip H. Sheridan,11X021         ,321100010021,Elementary,928,NULL,NULL,NULL,NULL
+429,X306,P.S. 306,10X306         ,321000010306,Elementary,723,NULL,NULL,NULL,NULL
+430,K133,P.S. 133 William A. Butler,13K133         ,331300010133,Elementary,280,NULL,NULL,NULL,NULL
+431,K231,P.S. K231,75K231         ,307500013231,K-8,271,NULL,NULL,NULL,NULL
+432,M047,47 The American Sign Language and English Secondary School,02M047         ,310200010047,Secondary School,157,NULL,NULL,NULL,NULL
+433,M312,New York City Lab Middle School for Collaborative Studies,02M312         ,310200010312,Junior High-Intermediate-Middle,562,NULL,NULL,NULL,NULL
+434,M460,Washington Irving High School,02M460         ,310200011460,High school,1478,NULL,NULL,NULL,NULL
+435,R450,Curtis High School,31R450         ,353100011450,High school,2654,NULL,NULL,NULL,NULL
+436,X025,P.S. 025 Bilingual School,07X025         ,320700010025,Elementary,361,NULL,NULL,NULL,NULL
+437,X041,P.S. 041 Gun Hill Road,11X041         ,321100010041,Elementary,893,NULL,NULL,NULL,NULL
+438,K121,P.S. 121 Nelson A. Rockefeller,21K121         ,332100010121,K-8,250,NULL,NULL,NULL,NULL
+439,M059,P.S. 059 Beekman Hill International,02M059         ,310200010059,Elementary,480,NULL,NULL,NULL,NULL
+440,Q034,P.S. 034 John Harvard,29Q034         ,342900010034,Elementary,529,NULL,NULL,NULL,NULL
+441,Q050,P.S. 050 Talfourd Lawn Elementary School,28Q050         ,342800010050,Elementary,919,NULL,NULL,NULL,NULL
+442,Q680,Queens Gateway to Health Sciences Secondary School,28Q680         ,342800011680,Secondary School,640,NULL,NULL,NULL,NULL
+443,X168,P.S. 168,75X168         ,307500012168,K-12 all grades,393,NULL,NULL,NULL,NULL
+444,K010,Magnet School of Math Science and Design Technology,15K010         ,331500010010,Elementary,725,NULL,NULL,NULL,NULL
+445,K227,J.H.S. 227 Edward B. Shallow,20K227         ,332000010227,Junior High-Intermediate-Middle,1367,NULL,NULL,NULL,NULL
+446,M194,P.S. 194 Countee Cullen,05M194         ,310500010194,Elementary,282,NULL,NULL,NULL,NULL
+447,Q058,P.S. 58 - School of Heroes,24Q058         ,342400010058,Elementary,964,NULL,NULL,NULL,NULL
+448,Q173,P.S. 173 Fresh Meadows,26Q173         ,342600010173,Elementary,800,NULL,NULL,NULL,NULL
+449,Q475,Richmond Hill High School,27Q475         ,342700011475,High school,3174,NULL,NULL,NULL,NULL
+450,R013,P.S. 013 M. L. Lindemeyer,31R013         ,353100010013,Elementary,762,NULL,NULL,NULL,NULL
+451,X302,M.S. 302 Luisa Dessus Cruz,08X302         ,320800010302,Junior High-Intermediate-Middle,781,NULL,NULL,NULL,NULL
+452,O490,Phoenix Academy,79X490         ,NULL,High school,145,NULL,NULL,NULL,NULL
+453,K239,Mark Twain I.S. 239 for the Gifted & Talented,21K239         ,332100010239,Junior High-Intermediate-Middle,1280,NULL,NULL,NULL,NULL
+454,K554,All City Leadership Secondary School,32K554         ,333200011554,Secondary School,251,NULL,NULL,NULL,NULL
+455,M051,P.S. 051 Elias Howe,02M051         ,310200010051,Elementary,324,NULL,NULL,NULL,NULL
+456,M166,P.S. 166 The Richard Rodgers School of The Arts and Technology,03M166         ,310300010166,Elementary,609,NULL,NULL,NULL,NULL
+457,M468,High School for Health Careers and Sciences,06M468         ,310600011468,High school,658,NULL,NULL,NULL,NULL
+458,Q161,P.S. 161 Arthur Ashe School,28Q161         ,342800010161,Elementary,810,NULL,NULL,NULL,NULL
+459,R001,P.S. 001 Tottenville,31R001         ,353100010001,Elementary,538,NULL,NULL,NULL,NULL
+460,X049,P.S. 049 Willis Avenue,07X049         ,320700010049,Elementary,652,NULL,NULL,NULL,NULL
+461,K257,P.S. 257 John F. Hylan,14K257         ,331400010257,Elementary,564,NULL,NULL,NULL,NULL
+462,K670,Benjamin Banneker Academy,13K670         ,331300011670,High school,829,NULL,NULL,NULL,NULL
+463,Q163,P.S. 163 Flushing Heights,25Q163         ,342500010163,Elementary,545,NULL,NULL,NULL,NULL
+465,R003,P.S. 003 The Margaret Gioiosa School,31R003         ,353100010003,Elementary,922,NULL,NULL,NULL,NULL
+466,X162,J.H.S. 162 Lola Rodriguez De Tio,07X162         ,320700010162,Junior High-Intermediate-Middle,835,NULL,NULL,NULL,NULL
+467,K012,Dr. Jacqueline Peek-Davis School,17K012         ,331700010012,Elementary,291,NULL,NULL,NULL,NULL
+468,K544,International Arts Business School,17K544         ,331700011544,High school,476,NULL,NULL,NULL,NULL
+469,M041,P.S. 041 Greenwich Village,02M041         ,310200010041,Elementary,754,NULL,NULL,NULL,NULL
+470,Q175,P.S. 175 The Lynn Gross Discovery School,28Q175         ,342800010175,Elementary,705,NULL,NULL,NULL,NULL
+471,X190,E.S.M.T- I.S. 190,12X190         ,321200010190,Junior High-Intermediate-Middle,241,NULL,NULL,NULL,NULL
+472,X304,P.S. 304 Early Childhood School,08X304         ,320800010304,Elementary,542,NULL,NULL,NULL,NULL
+473,X721,P.S. X721 - Stephen McSweeney School,75X721         ,307500012721,Secondary School,531,NULL,NULL,NULL,NULL
+474,K135,P.S. 135 Sheldon A. Brookner,18K135         ,331800010135,Elementary,769,NULL,NULL,NULL,NULL
+475,K233,P.S. 233 Langston Hughes,18K233         ,331800010233,Elementary,714,NULL,NULL,NULL,NULL
+476,K364,I.S. 364 Gateway,19K364         ,331900010364,Junior High-Intermediate-Middle,399,NULL,NULL,NULL,NULL
+477,M462,The College Academy,06M462         ,310600011462,High school,666,NULL,NULL,NULL,NULL
+479,K123,P.S. 123 Suydam,32K123         ,333200010123,Elementary,899,NULL,NULL,NULL,NULL
+480,K221,P.S. 221 Toussaint LOuverture,17K221         ,331700010221,Elementary,636,NULL,NULL,NULL,NULL
+481,K376,P.S. 376,32K376         ,333200010376,Elementary,610,NULL,NULL,NULL,NULL
+482,K409,East New York Family Academy,19K409         ,331900011409,Secondary School,448,NULL,NULL,NULL,NULL
+483,K425,James Madison High School,22K425         ,332200011425,High school,3287,NULL,NULL,NULL,NULL
+484,Q036,P.S. 036 Saint Albans School,29Q036         ,342900010036,Elementary,470,NULL,NULL,NULL,NULL
+485,Q052,P.S. 052 Queens,29Q052         ,342900010052,Elementary,557,NULL,NULL,NULL,NULL
+486,X055,P.S. 055 Benjamin Franklin,09X055         ,320900010055,Elementary,709,NULL,NULL,NULL,NULL
+487,K127,P.S. 127 Mckinley Park,20K127         ,332000010127,Elementary,426,NULL,NULL,NULL,NULL
+488,K225,P.S. K225 - The Eileen E. Zaglin,21K225         ,332100010225,K-8,910,NULL,NULL,NULL,NULL
+489,K429,Brooklyn School for Global Studies,15K429         ,331500011429,Secondary School,493,NULL,NULL,NULL,NULL
+490,K540,John Dewey High School,21K540         ,332100011540,High school,2756,NULL,NULL,NULL,NULL
+491,M192,P.S. 192 Jacob H. Schiff,06M192         ,310600010192,Elementary,380,NULL,NULL,NULL,NULL
+492,M290,P.S. 290 Manhattan New School,02M290         ,310200010290,Elementary,644,NULL,NULL,NULL,NULL
+493,Q171,P.S. 171 Peter G. Van Alst,30Q171         ,343000010171,Elementary,650,NULL,NULL,NULL,NULL
+494,R011,P.S. 11 Thomas Dongan School,31R011         ,353100010011,Elementary,288,NULL,NULL,NULL,NULL
+495,X059,P.S. 059 The Community School of Technology,10X059         ,321000010059,Elementary,558,NULL,NULL,NULL,NULL
+496,K139,P.S. 139 Alexine A. Fenty,22K139         ,332200010139,Elementary,1096,NULL,NULL,NULL,NULL
+497,K155,P.S./ I.S. 155 Nicholas Herkimer,23K155         ,332300010155,K-8,573,NULL,NULL,NULL,NULL
+498,K171,I.S. 171 Abraham Lincoln,19K171         ,331900010171,Junior High-Intermediate-Middle,839,NULL,NULL,NULL,NULL
+499,K253,P.S. 253,21K253         ,332100010253,Elementary,663,NULL,NULL,NULL,NULL
+500,K368,P.S. 368,75K368         ,307500013368,K-12 all grades,272,NULL,NULL,NULL,NULL
+501,K384,P.S. /I.S. 384 Frances E. Carter,32K384         ,333200010384,K-8,720,NULL,NULL,NULL,NULL
+502,K552,Academy of Urban Planning,32K552         ,333200011552,High school,469,NULL,NULL,NULL,NULL
+503,M180,P.S. 180 Hugo Newman,03M180         ,310300010180,K-8,616,NULL,NULL,NULL,NULL
+504,M751,Manhattan School for Career Development,75M751         ,307500011751,High school,246,NULL,NULL,NULL,NULL
+505,Q028,P.S. 28 - The Thomas Emanuel Early Childhood Center,24Q028         ,342400010028,Early Childhood,510,NULL,NULL,NULL,NULL
+506,Q060,P.S. 060 Woodhaven,27Q060         ,342700010060,Elementary,1212,NULL,NULL,NULL,NULL
+507,Q445,William Cullen Bryant High School,30Q445         ,343000011445,High school,3096,NULL,NULL,NULL,NULL
+508,X047,P.S. 047 John Randolph,12X047         ,321200010047,Elementary,1112,NULL,NULL,NULL,NULL
+509,X119,P.S. 119,08X119         ,320800010119,Elementary,955,NULL,NULL,NULL,NULL
+510,X217,School of Performing Arts,12X217         ,321200010217,Junior High-Intermediate-Middle,352,NULL,NULL,NULL,NULL
+511,K004,P.S. K004,75K004         ,307500013004,K-8,332,NULL,NULL,NULL,NULL
+512,K020,P.S. 020 Clinton Hill,13K020         ,331300010020,Elementary,366,NULL,NULL,NULL,NULL
+513,K179,P.S. 179 Kensington,20K179         ,332000010179,Elementary,891,NULL,NULL,NULL,NULL
+514,K277,P.S. 277 Gerritsen Beach,22K277         ,332200010277,Elementary,464,NULL,NULL,NULL,NULL
+515,K372,P.S. 372 -The Childrens School,75K372         ,307500013372,Elementary,181,NULL,NULL,NULL,NULL
+516,K405,Midwood High School,22K405         ,332200011405,High school,3938,NULL,NULL,NULL,NULL
+517,K690,Brooklyn Studio Secondary School,21K690         ,332100011690,Secondary School,875,NULL,NULL,NULL,NULL
+518,M057,James Weldon Johnson,04M057         ,310400010057,K-8,754,NULL,NULL,NULL,NULL
+519,M188,P.S. 188 The Island School,01M188         ,310100010188,K-8,387,NULL,NULL,NULL,NULL
+520,M286,I.S. M286 Renaissance Leadership Academy,05M286         ,310500010286,Junior High-Intermediate-Middle,254,NULL,NULL,NULL,NULL
+522,M600,The High School of Fashion Industries,02M600         ,310200011600,High school,1674,NULL,NULL,NULL,NULL
+523,Q068,P.S. 068 Cambridge,24Q068         ,342400010068,Elementary,816,NULL,NULL,NULL,NULL
+524,Q485,Grover Cleveland High School,24Q485         ,342400011485,High school,2664,NULL,NULL,NULL,NULL
+525,Q580,Baccalaureate School for Global Education,30Q580         ,343000011580,Secondary School,424,NULL,NULL,NULL,NULL
+526,R023,P.S. 023 Richmondtown,31R023         ,353100010023,Elementary,530,NULL,NULL,NULL,NULL
+527,X051,P.S. 051 Bronx New School,10X051         ,321000010051,Elementary,280,NULL,NULL,NULL,NULL
+529,X280,P.S./M.S. 280 Mosholu Parkway,10X280         ,321000010280,K-8,803,NULL,NULL,NULL,NULL
+530,K016,P.S. 016 Leonard Dunkly,14K016         ,331400010016,Elementary,355,NULL,NULL,NULL,NULL
+531,K032,P.S. 032 Samuel Mills Sprole,15K032         ,331500010032,Elementary,307,NULL,NULL,NULL,NULL
+532,K249,P.S. 249 The Caton,17K249         ,331700010249,Elementary,727,NULL,NULL,NULL,NULL
+533,K265,Dr. Susan S. McKinney Secondary School of the Arts,13K265         ,331300010265,Secondary School,521,NULL,NULL,NULL,NULL
+534,K548,Brooklyn School for Music & Theatre,17K548         ,331700011548,High school,411,NULL,NULL,NULL,NULL
+537,Q020,P.S. 020 John Bowne,25Q020         ,342500010020,Elementary,1414,NULL,NULL,NULL,NULL
+538,Q195,P.S. 195 William Haberle,29Q195         ,342900010195,Elementary,695,NULL,NULL,NULL,NULL
+539,Q811,P.S. Q811,75Q811         ,307500014811,K-12 all grades,345,NULL,NULL,NULL,NULL
+540,R035,P.S. 35 The Clove Valley School,31R035         ,353100010035,Elementary,346,NULL,NULL,NULL,NULL
+541,R051,I.S. 051 Edwin Markham,31R051         ,353100010051,Junior High-Intermediate-Middle,1080,NULL,NULL,NULL,NULL
+542,X023,P.S. 023 The New Childrens School,10X023         ,321000010023,Early Childhood,579,NULL,NULL,NULL,NULL
+543,X111,P.S. 111 Seton Falls,11X111         ,321100010111,Elementary,655,NULL,NULL,NULL,NULL
+544,X194,PS/MS 194,11X194         ,321100010194,K-8,1338,NULL,NULL,NULL,NULL
+545,X413,Bronx High School for Medical Science,09X413         ,320900011413,Secondary School,458,NULL,NULL,NULL,NULL
+546,K068,I.S. 068 Isaac Bildersee,18K068         ,331800010068,Junior High-Intermediate-Middle,997,NULL,NULL,NULL,NULL
+547,K485,High School of  Telecommunication Arts and Technology,20K485         ,332000011485,High school,1291,NULL,NULL,NULL,NULL
+548,M034,P.S. 034 Franklin D. Roosevelt,01M034         ,310100010034,K-8,410,NULL,NULL,NULL,NULL
+549,M680,Heritage School The,04M680         ,310400011680,High school,318,NULL,NULL,NULL,NULL
+550,Q013,P.S. 013 Clement C. Moore,24Q013         ,342400010013,Elementary,1325,NULL,NULL,NULL,NULL
+551,Q128,P.S. 128 The Lorraine Tuzzo Juniper Valley Elementary School,24Q128         ,342400010128,K-8,545,NULL,NULL,NULL,NULL
+552,Q144,P.S. 144 Col Jeromus Remsen,28Q144         ,342800010144,Elementary,697,NULL,NULL,NULL,NULL
+553,Q242,P.S. 242 Leonard P. Stavisky Early Childhood School,25Q242         ,342500010242,Elementary,374,NULL,NULL,NULL,NULL
+555,K096,I.S. 096 Seth Low,21K096         ,332100010096,Junior High-Intermediate-Middle,1003,NULL,NULL,NULL,NULL
+556,K410,Abraham Lincoln High School,21K410         ,332100011410,High school,2533,NULL,NULL,NULL,NULL
+557,M006,P.S. 006 Lillie D. Blake,02M006         ,310200010006,Elementary,793,NULL,NULL,NULL,NULL
+558,M692,High School for Mathematics Science and Engineering at City College,05M692         ,310500011692,High school,424,NULL,NULL,NULL,NULL
+559,Q156,P.S. 156 Laurelton,29Q156         ,342900010156,K-8,803,NULL,NULL,NULL,NULL
+560,X159,P.S. 159 Luis Munoz Marin Biling,10X159         ,321000010159,Elementary,219,NULL,NULL,NULL,NULL
+561,X175,P.S. 175 City Island,11X175         ,321100010175,K-8,381,NULL,NULL,NULL,NULL
+562,K116,P.S. 116 Elizabeth L Farrell,32K116         ,333200010116,Elementary,512,NULL,NULL,NULL,NULL
+563,K214,P.S. 214 Michael Friedsam,19K214         ,331900010214,Elementary,1118,NULL,NULL,NULL,NULL
+564,K349,I.S. 349 Math Science & Tech.,32K349         ,333200010349,Junior High-Intermediate-Middle,518,NULL,NULL,NULL,NULL
+565,M145,P.S. 145 The Bloomingdale School,03M145         ,310300010145,Elementary,473,NULL,NULL,NULL,NULL
+566,M243,M.S. 243 Center School,03M243         ,310300010243,Junior High-Intermediate-Middle,210,NULL,NULL,NULL,NULL
+567,Q009,P.S. 009,75Q009         ,307500014009,K-12 all grades,431,NULL,NULL,NULL,NULL
+568,Q120,P.S. 120 Queens,25Q120         ,342500010120,Elementary,845,NULL,NULL,NULL,NULL
+569,X008,P.S. 008 Issac Varian,10X008         ,321000010008,Elementary,1180,NULL,NULL,NULL,NULL
+571,K104,P.S./I.S. 104 The Fort Hamilton School,20K104         ,332000010104,K-8,1296,NULL,NULL,NULL,NULL
+572,K202,P.S. 202 Ernest S. Jenkyns,19K202         ,331900010202,K-8,976,NULL,NULL,NULL,NULL
+573,M173,P.S. 173,06M173         ,310600010173,Elementary,707,NULL,NULL,NULL,NULL
+574,M459,Manhattan International High School,02M459         ,310200011459,High school,309,NULL,NULL,NULL,NULL
+575,M570,Satellite Academy High School,02M570         ,310200011570,High school,910,NULL,NULL,NULL,NULL
+576,Q450,Long Island City High School,30Q450         ,343000011450,High school,3300,NULL,NULL,NULL,NULL
+577,X036,P.S. 036 Unionport,08X036         ,320800010036,Elementary,721,NULL,NULL,NULL,NULL
+578,X151,J.H.S. 151 Lou Gehrig,07X151         ,320700010151,Junior High-Intermediate-Middle,280,NULL,NULL,NULL,NULL
+579,X682,Fannie Lou Hamer Freedom High School,12X682         ,321200011682,High school,514,NULL,NULL,NULL,NULL
+580,K108,P.S. 108 Sal Abbracciamento,19K108         ,331900010108,Elementary,962,NULL,NULL,NULL,NULL
+581,K206,P.S. 206 Joseph F Lamb,22K206         ,332200010206,K-8,1348,NULL,NULL,NULL,NULL
+582,K321,P.S. 321 William Penn,15K321         ,331500010321,Elementary,1325,NULL,NULL,NULL,NULL
+583,K525,Edward R. Murrow High School,21K525         ,332100011525,High school,3947,NULL,NULL,NULL,NULL
+584,Q152,P.S. 152 Gwendoline N. Alleyne School,30Q152         ,343000010152,Elementary,1305,NULL,NULL,NULL,NULL
+585,Q250,I.S. 250 The Robert F. Kennedy Community Middle School,25Q250         ,342500010250,Junior High-Intermediate-Middle,392,NULL,NULL,NULL,NULL
+586,K218,J.H.S. 218 James P. Sinnott,19K218         ,331900010218,Junior High-Intermediate-Middle,638,NULL,NULL,NULL,NULL
+587,M149,P.S. 149 Sojourner Truth,03M149         ,310300010149,K-8,427,NULL,NULL,NULL,NULL
+588,M247,M.S. M247 Dual Language Middle School,03M247         ,310300010247,Junior High-Intermediate-Middle,192,NULL,NULL,NULL,NULL
+589,Q124,P.S. 124 Osmond A Church,27Q124         ,342700010124,K-8,1201,NULL,NULL,NULL,NULL
+590,X445,Bronx High School of Science,10X445         ,321000011445,High school,2941,NULL,NULL,NULL,NULL
+591,K100,P.S. 100 The Coney Island School,21K100         ,332100010100,Elementary,697,NULL,NULL,NULL,NULL
+592,K489,W.E.B. Dubois Academic High School,17K489         ,331700011489,High school,258,NULL,NULL,NULL,NULL
+593,M153,P.S. 153 Adam Clayton Powell,06M153         ,310600010153,Elementary,995,NULL,NULL,NULL,NULL
+594,Q017,P.S. 017 Henry David Thoreau,30Q017         ,343000010017,Elementary,674,NULL,NULL,NULL,NULL
+595,Q148,P.S. 148 Queens,30Q148         ,343000010148,Elementary,1147,NULL,NULL,NULL,NULL
+596,Q430,Francis Lewis High School,26Q430         ,342600011430,High school,4460,NULL,NULL,NULL,NULL
+598,K329,P.S. 329 Surfside,21K329         ,332100010329,Elementary,559,NULL,NULL,NULL,NULL
+599,Q005,I.S. 5 - The Walter Crowley Intermediate School,24Q005         ,342400010005,Junior High-Intermediate-Middle,1515,NULL,NULL,NULL,NULL
+600,X004,P.S./M.S. 004 Crotona Park West,09X004         ,320900010004,K-8,427,NULL,NULL,NULL,NULL
+601,X179,P.S. 179,07X179         ,320700010179,Elementary,406,NULL,NULL,NULL,NULL
+602,X277,P.S. 277,07X277         ,320700010277,Elementary,519,NULL,NULL,NULL,NULL
+603,X690,Monroe Academy for Business/Law,12X690         ,321200011690,High school,461,NULL,NULL,NULL,NULL
+604,K114,P.S. 114 Ryder Elementary,18K114         ,331800010114,Elementary,844,NULL,NULL,NULL,NULL
+605,K347,I.S. 347 School of Humanities,32K347         ,333200010347,Junior High-Intermediate-Middle,542,NULL,NULL,NULL,NULL
+606,M143,J.H.S. 143 Eleanor Roosevelt,06M143         ,310600010143,Junior High-Intermediate-Middle,751,NULL,NULL,NULL,NULL
+607,M241,STEM Institute of Manhattan,03M241         ,310300010241,K-8,232,NULL,NULL,NULL,NULL
+608,M429,Legacy School for Integrated Studies,02M429         ,310200011429,High school,394,NULL,NULL,NULL,NULL
+609,Q007,P.S. 007 Louis F. Simeone,24Q007         ,342400010007,Elementary,1230,NULL,NULL,NULL,NULL
+610,X006,P.S. 006 West Farms,12X006         ,321200010006,Elementary,750,NULL,NULL,NULL,NULL
+611,X279,P.S. 279 Captain Manuel Rivera Jr.,10X279         ,321000010279,K-8,958,NULL,NULL,NULL,NULL
+612,X390,M.S. 390,10X390         ,321000010390,Junior High-Intermediate-Middle,550,NULL,NULL,NULL,NULL
+613,X692,Monroe Academy for Visual Arts & Design,12X692         ,321200011692,High school,472,NULL,NULL,NULL,NULL
+614,K200,P.S. 200 Benson School,20K200         ,332000010200,Elementary,1314,NULL,NULL,NULL,NULL
+615,M155,P.S. 155 William Paca,04M155         ,310400010155,Elementary,402,NULL,NULL,NULL,NULL
+616,M171,P.S. 171 Patrick Henry,04M171         ,310400010171,K-8,648,NULL,NULL,NULL,NULL
+617,M457,George Washington Yabc,06M457         ,NULL,High school,223,NULL,NULL,NULL,NULL
+618,Q019,P.S. 019 Marino Jeantet,24Q019         ,342400010019,Elementary,1982,NULL,NULL,NULL,NULL
+2017,K901,G. Westinghouse Evening H.S.,13K901         ,NULL,Ungraded,NULL,NULL,NULL,NULL,NULL
+620,K078,J.H.S. 078 Roy H. Mann,22K078         ,332200010078,Junior High-Intermediate-Middle,1145,NULL,NULL,NULL,NULL
+621,K094,P.S. 094 The Henry Longfellow,15K094         ,331500010094,Elementary,1137,NULL,NULL,NULL,NULL
+622,K323,P.S./I.S. 323,23K323         ,332300010323,K-8,583,NULL,NULL,NULL,NULL
+623,K625,Paul Robeson High School,17K625         ,331700011625,High school,1017,NULL,NULL,NULL,NULL
+624,M004,P.S. 004 Duke Ellington,06M004         ,310600010004,Elementary,645,NULL,NULL,NULL,NULL
+2018,K902,Westinghouse Evening Hs T/R,13K902         ,NULL,Ungraded,NULL,NULL,NULL,NULL,NULL
+626,Q154,P.S. 154 Queens,25Q154         ,342500010154,Elementary,632,NULL,NULL,NULL,NULL
+627,X157,P.S. 157 Grove Hill,07X157         ,320700010157,Elementary,593,NULL,NULL,NULL,NULL
+628,K066,P.S. 66,18K066         ,331800010066,K-8,749,NULL,NULL,NULL,NULL
+629,Q011,P.S. 011 Kathryn Phelan,30Q011         ,343000010011,Elementary,1235,NULL,NULL,NULL,NULL
+630,Q126,Albert Shanker School for Visual and Performing Arts,30Q126         ,343000010126,Junior High-Intermediate-Middle,625,NULL,NULL,NULL,NULL
+631,R069,P.S. 069 Daniel D. Tompkins,31R069         ,353100010069,Elementary,928,NULL,NULL,NULL,NULL
+632,X145,J.H.S. 145 Arturo Toscanini,09X145         ,320900010145,Junior High-Intermediate-Middle,495,NULL,NULL,NULL,NULL
+633,M036,P.S. 036 Margaret Douglas,05M036         ,310500010036,Elementary,597,NULL,NULL,NULL,NULL
+634,M151,Yorkville Community School,02M151         ,310200010151,Early Childhood,72,NULL,NULL,NULL,NULL
+635,Q015,P.S. 015 Jackie Robinson,29Q015         ,342900010015,Elementary,438,NULL,NULL,NULL,NULL
+636,Q146,P.S. 146 Howard Beach,27Q146         ,342700010146,K-8,702,NULL,NULL,NULL,NULL
+637,X030,P.S. 030 Wilton,07X030         ,320700010030,Elementary,493,NULL,NULL,NULL,NULL
+638,X660,Grace Dodge Career and Technical Education High School,10X660         ,321000011660,High school,1467,NULL,NULL,NULL,NULL
+639,K098,I.S. 98 Bay Academy,21K098         ,332100010098,Junior High-Intermediate-Middle,1104,NULL,NULL,NULL,NULL
+640,K110,P.S. 110 The Monitor,14K110         ,331400010110,Elementary,360,NULL,NULL,NULL,NULL
+641,K327,P.S. 327 Dr. Rose B. English,23K327         ,332300010327,K-8,779,NULL,NULL,NULL,NULL
+642,M008,P.S. 008 Luis Belliard,06M008         ,310600010008,Elementary,588,NULL,NULL,NULL,NULL
+643,M425,Leadership and Public Service High School,02M425         ,310200011425,High school,646,NULL,NULL,NULL,NULL
+644,Q158,M.S. 158 Marie Curie,26Q158         ,342600010158,Junior High-Intermediate-Middle,1055,NULL,NULL,NULL,NULL
+645,Q256,P.S. Q256,75Q256         ,307500014256,K-12 all grades,409,NULL,NULL,NULL,NULL
+646,Q575,Academy of American Studies,30Q575         ,343000011575,High school,706,NULL,NULL,NULL,NULL
+648,K062,J.H.S. 062 Ditmas,20K062         ,332000010062,Junior High-Intermediate-Middle,1206,NULL,NULL,NULL,NULL
+649,K216,P.S. 216 Arturo Toscanini,21K216         ,332100010216,Elementary,455,NULL,NULL,NULL,NULL
+650,K535,Leon M. Goldstein High School for the Sciences,22K535         ,332200011535,High school,1049,NULL,NULL,NULL,NULL
+651,M245,M.S. M245 The Computer School,03M245         ,310300010245,Junior High-Intermediate-Middle,395,NULL,NULL,NULL,NULL
+652,M449,Vanguard High School,02M449         ,310200011449,High school,431,NULL,NULL,NULL,NULL
+653,Q122,P.S. 122 Mamie Fay,30Q122         ,343000010122,K-8,1396,NULL,NULL,NULL,NULL
+654,X141,Riverdale / Kingsbridge Academy (Middle School / High School 141),10X141         ,321000011141,Secondary School,1302,NULL,NULL,NULL,NULL
+655,X427,Community School for Social Justice,07X427         ,320700011427,High school,343,NULL,NULL,NULL,NULL
+656,X696,High School of American Studies at Lehman College,10X696         ,321000011696,High school,352,NULL,NULL,NULL,NULL
+657,K090,P.S. 90 Edna Cohen School,21K090         ,332100010090,Elementary,506,NULL,NULL,NULL,NULL
+658,K106,P.S. 106 Edward Everett Hale,32K106         ,333200010106,Elementary,633,NULL,NULL,NULL,NULL
+659,M175,P.S. 175 Henry H Garnet,05M175         ,310500010175,Elementary,413,NULL,NULL,NULL,NULL
+660,Q150,P.S. 150 Queens,30Q150         ,343000010150,Elementary,1244,NULL,NULL,NULL,NULL
+661,X153,P.S. 153 Helen Keller,11X153         ,321100010153,Elementary,594,NULL,NULL,NULL,NULL
+662,X455,Harry S Truman High School,11X455         ,321100011455,High school,2131,NULL,NULL,NULL,NULL
+663,X684,Wings Academy,12X684         ,321200011684,High school,512,NULL,NULL,NULL,NULL
+664,K077,P.S. K077,75K077         ,307500013077,K-12 all grades,294,NULL,NULL,NULL,NULL
+665,K093,P.S. 093 William H. Prescott,13K093         ,331300010093,Elementary,402,NULL,NULL,NULL,NULL
+666,K109,P.S. 109,22K109         ,332200010109,K-8,635,NULL,NULL,NULL,NULL
+667,K207,P.S. 207 Elizabeth G. Leary,22K207         ,332200010207,K-8,1179,NULL,NULL,NULL,NULL
+668,K620,William E. Grady Career and Technical Education High School,21K620         ,332100011620,High school,1366,NULL,NULL,NULL,NULL
+669,M003,P.S. 003 Charrette School,02M003         ,310200010003,Elementary,625,NULL,NULL,NULL,NULL
+670,M575,Manhattan Comprehensive Night and Day High School,02M575         ,310200011575,High school,862,NULL,NULL,NULL,NULL
+671,Q153,P.S. 153 Maspeth Elem,24Q153         ,342400010153,Elementary,1413,NULL,NULL,NULL,NULL
+672,Q251,P.S. 251 Queens,29Q251         ,342900010251,Elementary,372,NULL,NULL,NULL,NULL
+673,Q455,Newtown High School,24Q455         ,342400011455,High school,3015,NULL,NULL,NULL,NULL
+674,X152,P.S. 152 Evergreen,08X152         ,320800010152,Elementary,920,NULL,NULL,NULL,NULL
+675,K065,P.S. 065,19K065         ,331900010065,Elementary,584,NULL,NULL,NULL,NULL
+676,K219,P.S. 219 Kennedy-King,18K219         ,331800010219,Elementary,842,NULL,NULL,NULL,NULL
+677,M146,P.S. 146 Ann M. Short,04M146         ,310400010146,Elementary,480,NULL,NULL,NULL,NULL
+678,M448,University Neighborhood High School,01M448         ,310100011448,High school,532,NULL,NULL,NULL,NULL
+679,Q125,I.S. 125 Thom J. McCann Woodside,24Q125         ,342400010125,Junior High-Intermediate-Middle,1617,NULL,NULL,NULL,NULL
+680,Q141,I.S. 141 The Steinway,30Q141         ,343000010141,Junior High-Intermediate-Middle,996,NULL,NULL,NULL,NULL
+681,R080,The Michael J. Petrides School,31R080         ,353100011080,K-12 all grades,1320,NULL,NULL,NULL,NULL
+682,X140,P.S. X140 The Eagle School,08X140         ,320800010140,Elementary,599,NULL,NULL,NULL,NULL
+683,X442,Celia Cruz Bronx High School of Music The,10X442         ,321000011442,High school,365,NULL,NULL,NULL,NULL
+684,K101,P.S. 101 The Verrazano,21K101         ,332100010101,Elementary,856,NULL,NULL,NULL,NULL
+685,K656,Brooklyn High School of the Arts,15K656         ,331500011656,High school,608,NULL,NULL,NULL,NULL
+686,K771,P.S. K771,75K771         ,307500013771,K-12 all grades,374,NULL,NULL,NULL,NULL
+687,M150,P.S. 150,02M150         ,310200010150,Elementary,181,NULL,NULL,NULL,NULL
+688,M685,Bread & Roses Integrated Arts High School,05M685         ,310500011685,High school,512,NULL,NULL,NULL,NULL
+689,Q014,P.S. 014 Fairview,24Q014         ,342400010014,Elementary,1490,NULL,NULL,NULL,NULL
+690,Q149,P.S. 149 Christa Mcauliffe,30Q149         ,343000010149,Elementary,1177,NULL,NULL,NULL,NULL
+691,R373,P.S. R373,75R373         ,307500015373,K-8,378,NULL,NULL,NULL,NULL
+692,X033,P.S. 033 Timothy Dwight,10X033         ,321000010033,Elementary,954,NULL,NULL,NULL,NULL
+693,K113,M.S. 113 Ronald Edmonds Learning Center,13K113         ,331300010113,Junior High-Intermediate-Middle,934,NULL,NULL,NULL,NULL
+694,K211,I.S. 211 John Wilson,18K211         ,331800010211,Junior High-Intermediate-Middle,821,NULL,NULL,NULL,NULL
+697,Q002,P.S. 002 Alfred Zimberg,30Q002         ,343000010002,Elementary,647,NULL,NULL,NULL,NULL
+698,X005,PS 5 Port Morris,07X005         ,320700010005,Elementary,588,NULL,NULL,NULL,NULL
+699,X176,P.S. X176,75X176         ,307500012176,K-12 all grades,657,NULL,NULL,NULL,NULL
+700,X691,Bronx Little School,12X691         ,321200011691,Elementary,207,NULL,NULL,NULL,NULL
+701,K061,M.S. 061 Dr. Gladstone H. Atwell,17K061         ,331700010061,Junior High-Intermediate-Middle,1158,NULL,NULL,NULL,NULL
+702,K215,P.S. 215 Morris H. Weiss,21K215         ,332100010215,Elementary,738,NULL,NULL,NULL,NULL
+703,K346,P.S. 346 Abe Stark,19K346         ,331900010346,Elementary,786,NULL,NULL,NULL,NULL
+704,K419,Science Skills Center High School for Science Technology and the Creative Arts,13K419         ,331300011419,High school,794,NULL,NULL,NULL,NULL
+705,K530,Metropolitan Corporate Academy High School,15K530         ,331500011530,High school,408,NULL,NULL,NULL,NULL
+706,M142,P.S. 142 Amalia Castro,01M142         ,310100010142,Elementary,416,NULL,NULL,NULL,NULL
+707,R060,P.S. 060 Alice Austen,31R060         ,353100010060,Elementary,916,NULL,NULL,NULL,NULL
+708,X009,P.S. 9 Ryer Avenue Elementary School,10X009         ,321000010009,Elementary,670,NULL,NULL,NULL,NULL
+709,X695,Passages Academy,79X695         ,NULL,K-12 all grades,336,NULL,NULL,NULL,NULL
+710,K073,P.S. 073 Thomas S. Boyland,23K073         ,332300010073,K-8,504,NULL,NULL,NULL,NULL
+711,K105,P.S. 105 The Blythebourne,20K105         ,332000010105,Elementary,1605,NULL,NULL,NULL,NULL
+712,M154,P.S. 154 Harriet Tubman,05M154         ,310500010154,Elementary,398,NULL,NULL,NULL,NULL
+713,Q018,P.S. 018 Winchester,26Q018         ,342600010018,Elementary,487,NULL,NULL,NULL,NULL
+714,Q435,Martin Van Buren High School,26Q435         ,342600011435,High school,2809,NULL,NULL,NULL,NULL
+715,Q566,Queens High School of Teaching Liberal Arts and the Sciences,26Q566         ,342600011566,High school,1177,NULL,NULL,NULL,NULL
+716,X037,P.S. X037 - Multiple Intelligence School,10X037         ,321000010037,K-8,586,NULL,NULL,NULL,NULL
+717,K097,P.S. 97 The Highlawn,21K097         ,332100010097,Elementary,796,NULL,NULL,NULL,NULL
+718,M007,P.S. 007 Samuel Stern,04M007         ,310400010007,K-8,448,NULL,NULL,NULL,NULL
+719,M178,Professor Juan Bosch Public School,06M178         ,310600010178,Early Childhood,229,NULL,NULL,NULL,NULL
+720,M420,High School for Health Professions and Human Services,02M420         ,310200011420,High school,1695,NULL,NULL,NULL,NULL
+721,Q157,J.H.S. 157 Stephen A. Halsey,28Q157         ,342800010157,Junior High-Intermediate-Middle,1076,NULL,NULL,NULL,NULL
+722,Q255,P.S. Q255,75Q255         ,307500014255,K-12 all grades,404,NULL,NULL,NULL,NULL
+723,X001,P.S. 001 Courtlandt School,07X001         ,320700010001,Elementary,698,NULL,NULL,NULL,NULL
+724,K069,P.S. 69 Vincent D. Grippo School,20K069         ,332000010069,Elementary,878,NULL,NULL,NULL,NULL
+725,M035,P.S. 035,75M035         ,307500011035,K-12 all grades,276,NULL,NULL,NULL,NULL
+726,Q010,I.S. 010 Horace Greeley,30Q010         ,343000010010,Junior High-Intermediate-Middle,961,NULL,NULL,NULL,NULL
+727,Q129,P.S. 129 Patricia Larkin,25Q129         ,342500010129,Elementary,947,NULL,NULL,NULL,NULL
+728,Q145,I.S. 145 Joseph Pulitzer,30Q145         ,343000010145,Junior High-Intermediate-Middle,1961,NULL,NULL,NULL,NULL
+729,X144,J.H.S. 144 Michelangelo,11X144         ,321100010144,Junior High-Intermediate-Middle,1052,NULL,NULL,NULL,NULL
+730,M450,East Side Community School,01M450         ,310100011450,Secondary School,559,NULL,NULL,NULL,NULL
+731,Q012,P.S. 012 James B. Colgate,24Q012         ,342400010012,Elementary,1237,NULL,NULL,NULL,NULL
+732,Q147,PS/MS 147 Ronald McNair,29Q147         ,342900010147,K-8,861,NULL,NULL,NULL,NULL
+733,Q560,Robert F. Wagner Jr. Secondary School for Arts and Technology,24Q560         ,342400011560,Secondary School,551,NULL,NULL,NULL,NULL
+734,X031,P.S./M.S. 031 The William Lloyd Garrison,07X031         ,320700010031,K-8,721,NULL,NULL,NULL,NULL
+735,X146,P.S. 146 Edward Collins,08X146         ,320800010146,Elementary,493,NULL,NULL,NULL,NULL
+736,K099,P.S. 099 Isaac Asimov,21K099         ,332100010099,K-8,698,NULL,NULL,NULL,NULL
+737,K340,I.S. 340,17K340         ,331700010340,Junior High-Intermediate-Middle,284,NULL,NULL,NULL,NULL
+738,M009,P.S. 009 Sarah Anderson,03M009         ,310300010009,Elementary,566,NULL,NULL,NULL,NULL
+740,Q670,Robert F. Kennedy Community High School,25Q670         ,342500011670,High school,723,NULL,NULL,NULL,NULL
+741,X003,P.S. 3 Raul Julia Micro Society,10X003         ,321000010003,K-8,442,NULL,NULL,NULL,NULL
+742,K119,P.S. 119 Amersfort,22K119         ,332200010119,Elementary,515,NULL,NULL,NULL,NULL
+743,K217,P.S. 217 Colonel David Marcus School,22K217         ,332200010217,Elementary,1285,NULL,NULL,NULL,NULL
+744,M242,P.S. 242 - The Young Diplomats Magnet Academy,03M242         ,310300010242,Elementary,218,NULL,NULL,NULL,NULL
+745,Q008,J.H.S. 008 Richard S. Grossley,28Q008         ,342800010008,Junior High-Intermediate-Middle,716,NULL,NULL,NULL,NULL
+746,Q123,P.S. 123,27Q123         ,342700010123,Elementary,648,NULL,NULL,NULL,NULL
+747,Q425,John Bowne High School,25Q425         ,342500011425,High school,3114,NULL,NULL,NULL,NULL
+748,X440,DeWitt Clinton High School,10X440         ,321000011440,High school,4444,NULL,NULL,NULL,NULL
+749,K075,P.S. 075 Mayda Cortiella,32K075         ,333200010075,Elementary,637,NULL,NULL,NULL,NULL
+750,K091,P.S. 091 The Albany Avenue School,17K091         ,331700010091,Elementary,791,NULL,NULL,NULL,NULL
+751,K107,P.S. 107 John W. Kimball,15K107         ,331500010107,Elementary,478,NULL,NULL,NULL,NULL
+753,Q151,P.S. 151 Mary D. Carter,30Q151         ,343000010151,Elementary,605,NULL,NULL,NULL,NULL
+754,X452,Bronx Guild,08X452         ,320800011452,High school,320,NULL,NULL,NULL,NULL
+755,K095,P.S. 095 The Gravesend,21K095         ,332100010095,K-8,1017,NULL,NULL,NULL,NULL
+756,K209,P.S. 209 Margaret Mead,21K209         ,332100010209,K-8,731,NULL,NULL,NULL,NULL
+757,M005,P.S. 005 Ellen Lurie,06M005         ,310600010005,Elementary,789,NULL,NULL,NULL,NULL
+758,X154,P.S. 154 Jonathan D. Hyatt,07X154         ,320700010154,Elementary,536,NULL,NULL,NULL,NULL
+759,K067,P.S. 067 Charles A. Dorsey,13K067         ,331300010067,Elementary,228,NULL,NULL,NULL,NULL
+760,M033,P.S. 033 Chelsea Prep,02M033         ,310200010033,Elementary,355,NULL,NULL,NULL,NULL
+762,M565,Urban Academy Laboratory High School,02M565         ,310200011565,High school,145,NULL,NULL,NULL,NULL
+763,Q127,P.S. 127 Aerospace Science Magne,30Q127         ,343000010127,K-8,1277,NULL,NULL,NULL,NULL
+764,Q143,P.S. 143 Louis Armstrong,24Q143         ,342400010143,Elementary,1424,NULL,NULL,NULL,NULL
+765,X142,MS 142 John Philip Sousa,11X142         ,321100010142,Junior High-Intermediate-Middle,955,NULL,NULL,NULL,NULL
+767,K071,Juan Morel Campos Secondary School,14K071         ,331400011071,Secondary School,906,NULL,NULL,NULL,NULL
+768,M152,P.S. 152 Dyckman Valley,06M152         ,310600010152,Elementary,825,NULL,NULL,NULL,NULL
+769,Q016,P.S. Q016 The Nancy DeBenedittis School,24Q016         ,342400010016,Elementary,1483,NULL,NULL,NULL,NULL
+770,X035,P.S. 035 Franz Siegel,09X035         ,320900010035,Elementary,715,NULL,NULL,NULL,NULL
+771,K115,P.S. 115 Daniel Mucatel School,18K115         ,331800010115,Elementary,1247,NULL,NULL,NULL,NULL
+772,K213,P.S. 213 New Lots,19K213         ,331900010213,Elementary,455,NULL,NULL,NULL,NULL
+773,K328,P.S. 328 Phyllis Wheatley,19K328         ,331900010328,K-8,568,NULL,NULL,NULL,NULL
+774,M140,P.S. 140 Nathan Straus,01M140         ,310100010140,K-8,416,NULL,NULL,NULL,NULL
+775,M442,Ballet Tech NYC Public School for Dance,02M442         ,310200011442,K-12 all grades,144,NULL,NULL,NULL,NULL
+776,Q004,P.S. Q004,75Q004         ,307500014004,K-12 all grades,436,NULL,NULL,NULL,NULL
+777,Q690,High School for Law Enforcement and Public Safety,28Q690         ,342800011690,High school,565,NULL,NULL,NULL,NULL
+778,Q993,P.S. Q993,75Q993         ,307500014993,K-12 all grades,397,NULL,NULL,NULL,NULL
+779,X007,P.S. 007 Kingsbridge,10X007         ,321000010007,Elementary,548,NULL,NULL,NULL,NULL
+780,X178,P.S. 178 - Dr. Selman Waksman,11X178         ,321100010178,Elementary,457,NULL,NULL,NULL,NULL
+781,X391,The Angelo Patri Middle School,10X391         ,321000010391,Junior High-Intermediate-Middle,699,NULL,NULL,NULL,NULL
+782,K001,P.S. 001 The Bergen,15K001         ,331500010001,Elementary,1168,NULL,NULL,NULL,NULL
+783,K156,P.S. 156 Waverly,23K156         ,332300010156,Elementary,852,NULL,NULL,NULL,NULL
+784,K172,P.S. 172 Beacon School of Excellence,15K172         ,331500010172,Elementary,587,NULL,NULL,NULL,NULL
+785,K270,P.S. 270 Johann DeKalb,13K270         ,331300010270,Elementary,253,NULL,NULL,NULL,NULL
+786,M185,P.S. 185 - The Early Childhood Discovery and Design Magnet School,03M185         ,310300010185,Early Childhood,239,NULL,NULL,NULL,NULL
+787,Q065,P.S. 65 - The Raymond York Elementary School,27Q065         ,342700010065,Elementary,550,NULL,NULL,NULL,NULL
+788,Q219,P.S. 219 Paul Klapper,25Q219         ,342500010219,K-8,615,NULL,NULL,NULL,NULL
+789,X218,P.S./I.S. 218 Rafael Hernandez Dual Language Magnet School,09X218         ,320900010218,K-8,838,NULL,NULL,NULL,NULL
+790,M098,P.S. 098 Shorac Kappock,06M098         ,310600010098,Elementary,697,NULL,NULL,NULL,NULL
+791,M110,P.S. 110 Florence Nightingale,01M110         ,310100010110,Elementary,475,NULL,NULL,NULL,NULL
+792,M499,Frederick Douglass Academy,05M499         ,310500011499,Secondary School,1596,NULL,NULL,NULL,NULL
+793,Q620,Thomas A. Edison Career and Technical Education High School,28Q620         ,342800011620,High school,2599,NULL,NULL,NULL,NULL
+794,X092,P.S. 092 Bronx,12X092         ,321200010092,Elementary,541,NULL,NULL,NULL,NULL
+795,X525,Bronx Leadership Academy High School,09X525         ,320900011525,High school,658,NULL,NULL,NULL,NULL
+796,Q196,P.S. 196 Grand Central Parkway,28Q196         ,342800010196,Elementary,645,NULL,NULL,NULL,NULL
+797,Q498,Humanities & Arts Magnet High School,29Q498         ,342900011498,High school,475,NULL,NULL,NULL,NULL
+798,R036,P.S. 036 J. C. Drumgoole,31R036         ,353100010036,Elementary,898,NULL,NULL,NULL,NULL
+799,X112,P.S. 112 Bronxwood,11X112         ,321100010112,Elementary,571,NULL,NULL,NULL,NULL
+800,X414,Jonathan Levin High School for Media and Communications,09X414         ,320900011414,High school,445,NULL,NULL,NULL,NULL
+801,K009,P.S. 009 Teunis G. Bergen,13K009         ,331300010009,Elementary,538,NULL,NULL,NULL,NULL
+802,K025,P.S. 025 Eubie Blake School,16K025         ,331600010025,Elementary,364,NULL,NULL,NULL,NULL
+803,K278,J.H.S. 278 Marine Park,22K278         ,332200010278,Junior High-Intermediate-Middle,958,NULL,NULL,NULL,NULL
+804,K393,Frederick Douglass Academy IV Secondary School,16K393         ,331600010393,Secondary School,505,NULL,NULL,NULL,NULL
+805,M696,Bard High School Early College,01M696         ,310100011696,High school,584,NULL,NULL,NULL,NULL
+806,R024,I.S. 024 Myra S. Barnes,31R024         ,353100010024,Junior High-Intermediate-Middle,1471,NULL,NULL,NULL,NULL
+807,K029,P.S. 029 John M. Harrigan,15K029         ,331500010029,Elementary,669,NULL,NULL,NULL,NULL
+808,K140,P.S. K140,75K140         ,307500013140,K-8,284,NULL,NULL,NULL,NULL
+809,K442,M.S. 442 Carroll Gardens School for Innovation,15K442         ,331500010442,Junior High-Intermediate-Middle,202,NULL,NULL,NULL,NULL
+810,M094,P.S. M094,75M094         ,307500011094,K-8,202,NULL,NULL,NULL,NULL
+811,M208,P.S. 208 Alain L. Locke,03M208         ,310300010208,Elementary,206,NULL,NULL,NULL,NULL
+812,M495,Park East High School,04M495         ,310400011495,High school,367,NULL,NULL,NULL,NULL
+813,M625,High School of Graphic Communication Arts,02M625         ,310200011625,High school,1820,NULL,NULL,NULL,NULL
+814,Q073,I.S. 73 - The Frank Sansivieri Intermediate School,24Q073         ,342400010073,Junior High-Intermediate-Middle,1661,NULL,NULL,NULL,NULL
+815,Q188,P.S. 188 Kingsbury,26Q188         ,342600010188,Elementary,543,NULL,NULL,NULL,NULL
+816,Q502,Information Technology High School,30Q502         ,343000011502,High school,982,NULL,NULL,NULL,NULL
+817,Q600,Queens Vocational and Technical High School,24Q600         ,342400011600,High school,1281,NULL,NULL,NULL,NULL
+818,R445,Port Richmond High School,31R445         ,353100011445,High school,2267,NULL,NULL,NULL,NULL
+819,X072,P.S. 072 Dr. William Dorney,08X072         ,320800010072,Elementary,973,NULL,NULL,NULL,NULL
+820,X505,Bronx School for Law Government and Justice,09X505         ,320900011505,Secondary School,632,NULL,NULL,NULL,NULL
+821,K152,School of Science & Technology,22K152         ,332200010152,Elementary,859,NULL,NULL,NULL,NULL
+822,K385,School of Business Finance and Entrepreneurship,16K385         ,331600010385,Junior High-Intermediate-Middle,253,NULL,NULL,NULL,NULL
+823,M539,New Explorations into Science Technology and Math High School,01M539         ,310100011539,K-12 all grades,1480,NULL,NULL,NULL,NULL
+824,Q045,P.S. 045 Clarence Witherspoon,27Q045         ,342700010045,Elementary,445,NULL,NULL,NULL,NULL
+825,Q061,I.S. 061 Leonardo Da Vinci,24Q061         ,342400010061,Junior High-Intermediate-Middle,2082,NULL,NULL,NULL,NULL
+826,Q215,P.S. 215 Lucretia Mott,27Q215         ,342700010215,Elementary,648,NULL,NULL,NULL,NULL
+827,Q530,International High School at LaGuardia Community College,24Q530         ,342400011530,High school,478,NULL,NULL,NULL,NULL
+828,R056,P.S. 56 The Louis Desario School,31R056         ,353100010056,Elementary,769,NULL,NULL,NULL,NULL
+829,X214,P.S. 214,12X214         ,321200010214,K-8,865,NULL,NULL,NULL,NULL
+830,X418,Bronx High School for the Visual Arts,11X418         ,321100011418,High school,406,NULL,NULL,NULL,NULL
+831,K176,P.S. 176 Ovington,20K176         ,332000010176,Elementary,1138,NULL,NULL,NULL,NULL
+832,K274,P.S. 274 Kosciusko,32K274         ,333200010274,Elementary,736,NULL,NULL,NULL,NULL
+833,M189,P.S. 189,06M189         ,310600010189,Elementary,1069,NULL,NULL,NULL,NULL
+834,M200,P.S. 200- The James Mccune Smith School,05M200         ,310500010200,Elementary,521,NULL,NULL,NULL,NULL
+835,Q069,P.S. 069 Jackson Heights,30Q069         ,343000010069,Elementary,1263,NULL,NULL,NULL,NULL
+836,R020,P.S. 020 Port Richmond,31R020         ,353100010020,Elementary,513,NULL,NULL,NULL,NULL
+837,X068,P.S. 068 Bronx,11X068         ,321100010068,Elementary,772,NULL,NULL,NULL,NULL
+838,X655,Samuel Gompers Career and Technical Education High School,07X655         ,320700011655,High school,1097,NULL,NULL,NULL,NULL
+839,K246,M.S. 246 Walt Whitman,17K246         ,331700010246,Junior High-Intermediate-Middle,594,NULL,NULL,NULL,NULL
+840,K262,P.S. 262 El Hajj Malik El Shabazz Elementary School,16K262         ,331600010262,Elementary,367,NULL,NULL,NULL,NULL
+841,M114,East Side Middle School,02M114         ,310200010114,Junior High-Intermediate-Middle,388,NULL,NULL,NULL,NULL
+842,M212,P.S. 212 Midtown West,02M212         ,310200010212,Elementary,345,NULL,NULL,NULL,NULL
+843,M531,Repertory Company High School for Theatre Arts,02M531         ,310200011531,High school,216,NULL,NULL,NULL,NULL
+844,Q192,I.S. 192 The Linden,29Q192         ,342900010192,Junior High-Intermediate-Middle,746,NULL,NULL,NULL,NULL
+845,Q494,Law Government and Community Service High School,29Q494         ,342900011494,High school,502,NULL,NULL,NULL,NULL
+846,R032,P.S. 032 The Gifford School,31R032         ,353100010032,Elementary,867,NULL,NULL,NULL,NULL
+847,K035,M.S. 035 Stephen Decatur,16K035         ,331600010035,Junior High-Intermediate-Middle,231,NULL,NULL,NULL,NULL
+848,Q496,Business Computer Applications & Entrepreneurship  High School,29Q496         ,342900011496,High school,476,NULL,NULL,NULL,NULL
+849,R034,I.S. 034 Tottenville,31R034         ,353100010034,Junior High-Intermediate-Middle,1148,NULL,NULL,NULL,NULL
+850,R050,P.S. 050 Frank Hankinson,31R050         ,353100010050,Elementary,666,NULL,NULL,NULL,NULL
+851,X098,J.H.S. 098 Herman Ridder,12X098         ,321200010098,Junior High-Intermediate-Middle,459,NULL,NULL,NULL,NULL
+852,X110,P.S. 110 Theodore Schoenfeld,09X110         ,320900010110,Elementary,424,NULL,NULL,NULL,NULL
+853,X412,Bronx High School of Business,09X412         ,320900011412,High school,443,NULL,NULL,NULL,NULL
+854,K007,P.S. 007 Abraham Lincoln,19K007         ,331900010007,Elementary,957,NULL,NULL,NULL,NULL
+855,K023,P.S. 023 Carter G. Woodson,14K023         ,331400010023,Elementary,317,NULL,NULL,NULL,NULL
+856,K178,P.S. 178 Saint Clair Mckelway,23K178         ,332300010178,K-8,643,NULL,NULL,NULL,NULL
+857,K595,Bedford Academy High School,13K595         ,331300011595,High school,342,NULL,NULL,NULL,NULL
+858,M072,The Lexington Academy,04M072         ,310400010072,Elementary,553,NULL,NULL,NULL,NULL
+859,M505,Edward A. Reynolds West Side High School,03M505         ,310300011505,High school,593,NULL,NULL,NULL,NULL
+860,Q182,P.S. 182 Samantha Smith,28Q182         ,342800010182,Early Childhood,865,NULL,NULL,NULL,NULL
+861,R022,P.S. 022 Graniteville,31R022         ,353100010022,Elementary,1196,NULL,NULL,NULL,NULL
+862,K240,Andries Hudde,22K240         ,332200010240,Junior High-Intermediate-Middle,1160,NULL,NULL,NULL,NULL
+863,K399,P.S. 399 Stanley Eugene Clark,17K399         ,331700010399,Elementary,481,NULL,NULL,NULL,NULL
+864,M096,P.S. 096 Joseph Lanzetta,04M096         ,310400010096,K-8,574,NULL,NULL,NULL,NULL
+865,M529,Jacqueline Kennedy Onassis High School,02M529         ,310200011529,High school,707,NULL,NULL,NULL,NULL
+866,M811,P.S. M811 - Mickey Mantle School,75M811         ,307500011811,K-8,360,NULL,NULL,NULL,NULL
+867,Q075,Robert E. Peary School,75Q075         ,307500014075,K-12 all grades,343,NULL,NULL,NULL,NULL
+869,K154,The Windsor Terrace School,15K154         ,331500010154,Elementary,444,NULL,NULL,NULL,NULL
+870,K170,Ralph A. Fabrizio School,20K170         ,332000010170,Elementary,798,NULL,NULL,NULL,NULL
+871,M183,P.S. 183 Robert L. Stevenson,02M183         ,310200010183,Elementary,645,NULL,NULL,NULL,NULL
+872,M485,Fiorello H. LaGuardia High School of Music & Art and Performing Arts,03M485         ,310300011485,High school,2527,NULL,NULL,NULL,NULL
+873,M655,Life Sciences Secondary School,02M655         ,310200011655,Secondary School,700,NULL,NULL,NULL,NULL
+874,Q047,P.S. 047 Chris Galas,27Q047         ,342700010047,K-8,243,NULL,NULL,NULL,NULL
+875,Q217,J.H.S. 217 Robert A. Van Wyck,28Q217         ,342800010217,Junior High-Intermediate-Middle,1325,NULL,NULL,NULL,NULL
+876,R058,Space Shuttle Columbia School,31R058         ,353100010058,Elementary,767,NULL,NULL,NULL,NULL
+877,X062,P.S. 062 Inocensio Casanova,08X062         ,320800010062,Elementary,719,NULL,NULL,NULL,NULL
+878,X118,J.H.S. 118 William W. Niles,10X118         ,321000010118,Junior High-Intermediate-Middle,1151,NULL,NULL,NULL,NULL
+880,K003,P.S. 003 The Bedford Village,13K003         ,331300010003,Elementary,638,NULL,NULL,NULL,NULL
+881,K158,P.S. 158 Warwick,19K158         ,331900010158,Elementary,586,NULL,NULL,NULL,NULL
+882,K174,P.S. 174 Dumont,19K174         ,331900010174,K-8,459,NULL,NULL,NULL,NULL
+883,K272,P.S. 272 Curtis Estabrook,18K272         ,331800010272,Elementary,713,NULL,NULL,NULL,NULL
+884,M187,P.S./I.S. 187 Hudson Cliffs,06M187         ,310600010187,K-8,784,NULL,NULL,NULL,NULL
+885,M489,High School of Economics and Finance,02M489         ,310200011489,High school,825,NULL,NULL,NULL,NULL
+886,M501,Home Instruction,75M501         ,307500010000,K-12 all grades,167,NULL,NULL,NULL,NULL
+887,Q067,J.H.S. 067 Louis Pasteur,26Q067         ,342600010067,Junior High-Intermediate-Middle,959,NULL,NULL,NULL,NULL
+888,Q480,John Adams High School,27Q480         ,342700011480,High school,3247,NULL,NULL,NULL,NULL
+889,X066,P.S. 066 School of Higher Expectations,12X066         ,321200010066,Elementary,602,NULL,NULL,NULL,NULL
+890,X181,I.S. 181 Pablo Casals,11X181         ,321100010181,Junior High-Intermediate-Middle,592,NULL,NULL,NULL,NULL
+891,K031,P.S. 031 Samuel F. Dupont,14K031         ,331400010031,Elementary,543,NULL,NULL,NULL,NULL
+892,K146,P.S. 146,15K146         ,331500010146,Elementary,591,NULL,NULL,NULL,NULL
+893,K260,P.S. 260 Breuckelen,19K260         ,331900010260,Elementary,362,NULL,NULL,NULL,NULL
+894,K448,Brooklyn Secondary School for Collaborative Studies,15K448         ,331500010448,Secondary School,704,NULL,NULL,NULL,NULL
+895,M112,P.S. 112 Jose Celso Barbosa,04M112         ,310400010112,Early Childhood,328,NULL,NULL,NULL,NULL
+896,M210,P.S./I.S. 210 - Twenty-first Century Academy for Community Leadership,06M210         ,310600010210,K-8,441,NULL,NULL,NULL,NULL
+897,Q079,P.S. 079 Francis Lewis,25Q079         ,342500010079,Elementary,814,NULL,NULL,NULL,NULL
+898,Q190,J.H.S. 190 Russell Sage,28Q190         ,342800010190,Junior High-Intermediate-Middle,870,NULL,NULL,NULL,NULL
+899,Q492,Mathematics Science Research and Technology Magnet High School,29Q492         ,342900011492,High school,471,NULL,NULL,NULL,NULL
+900,R030,P.S. 030 Westerleigh,31R030         ,353100010030,Elementary,832,NULL,NULL,NULL,NULL
+901,X094,P.S. 094 Kings College School,10X094         ,321000010094,Elementary,899,NULL,NULL,NULL,NULL
+902,X527,Bronx Leadership Academy II High School,07X527         ,320700011527,High school,446,NULL,NULL,NULL,NULL
+903,K039,P.S. 039 Henry Bristow,15K039         ,331500010039,Elementary,342,NULL,NULL,NULL,NULL
+904,K150,P.S. 150 Christopher,23K150         ,332300010150,K-8,365,NULL,NULL,NULL,NULL
+905,K383,J.H.S. 383 Philippa Schuyler,32K383         ,333200010383,Junior High-Intermediate-Middle,1129,NULL,NULL,NULL,NULL
+906,K685,El Puente Academy for Peace and Justice,14K685         ,331400011685,High school,197,NULL,NULL,NULL,NULL
+907,M064,P.S. 064 Robert Simon,01M064         ,310100010064,Elementary,292,NULL,NULL,NULL,NULL
+908,M218,I.S. 218 Salome Urena,06M218         ,310600010218,Junior High-Intermediate-Middle,368,NULL,NULL,NULL,NULL
+909,M635,Academy of Environmental Science Secondary High School,04M635         ,310400011635,Secondary School,437,NULL,NULL,NULL,NULL
+910,Q043,P.S. 043,27Q043         ,342700010043,K-8,1329,NULL,NULL,NULL,NULL
+911,Q213,P.S. 213 The Carl Ullman School,26Q213         ,342600010213,Elementary,465,NULL,NULL,NULL,NULL
+912,X114,P.S. X114 - Luis Llorens Torres Schools,09X114         ,320900010114,Elementary,773,NULL,NULL,NULL,NULL
+913,X212,P.S. 212,12X212         ,321200010212,K-8,441,NULL,NULL,NULL,NULL
+915,K697,Teachers Preparatory High School,23K697         ,332300011697,Secondary School,582,NULL,NULL,NULL,NULL
+916,M076,P.S. 076 A. Philip Randolph,03M076         ,310300010076,Elementary,447,NULL,NULL,NULL,NULL
+917,M206,P.S. 206 Jose Celso Barbosa,04M206         ,310400010206,Elementary,227,NULL,NULL,NULL,NULL
+918,M509,Marta Valle High School,01M509         ,310100011509,High school,352,NULL,NULL,NULL,NULL
+919,Q071,P.S. 071 Forest,24Q071         ,342400010071,Elementary,991,NULL,NULL,NULL,NULL
+920,R026,P.S. 026 The Carteret School,31R026         ,353100010026,Elementary,172,NULL,NULL,NULL,NULL
+921,X070,P.S. 070 Max Schoenfeld,09X070         ,320900010070,Elementary,1383,NULL,NULL,NULL,NULL
+922,K026,P.S. 026 Jesse Owens,16K026         ,331600010026,Elementary,344,NULL,NULL,NULL,NULL
+923,K141,P.S. K141,75K141         ,307500013141,K-12 all grades,390,NULL,NULL,NULL,NULL
+924,K394,M.S. K394,17K394         ,331700010394,K-8,715,NULL,NULL,NULL,NULL
+925,K443,New Voices School of Academic & Creative Arts,15K443         ,331500010443,Junior High-Intermediate-Middle,454,NULL,NULL,NULL,NULL
+926,M079,P.S. M079 - Horan School,75M079         ,307500011079,Secondary School,327,NULL,NULL,NULL,NULL
+927,M492,High School for Law Advocacy and Community Justice,03M492         ,310300011492,High school,470,NULL,NULL,NULL,NULL
+928,Q070,P.S. 070 Queens,30Q070         ,343000010070,Elementary,1063,NULL,NULL,NULL,NULL
+929,Q189,J.H.S. 189 Daniel Carter Beard,25Q189         ,342500010189,Junior High-Intermediate-Middle,754,NULL,NULL,NULL,NULL
+930,R029,P.S. 029 Bardwell,31R029         ,353100010029,Elementary,686,NULL,NULL,NULL,NULL
+931,X073,P.S. 073 Bronx,09X073         ,320900010073,Elementary,922,NULL,NULL,NULL,NULL
+932,X188,P.S. X188,75X188         ,307500012188,K-12 all grades,396,NULL,NULL,NULL,NULL
+933,X203,M.S. 203,07X203         ,320700010203,Junior High-Intermediate-Middle,296,NULL,NULL,NULL,NULL
+934,K038,P.S. 038 The Pacific,15K038         ,331500010038,Elementary,494,NULL,NULL,NULL,NULL
+935,K455,Boys and Girls High School,16K455         ,331600011455,High school,2293,NULL,NULL,NULL,NULL
+936,M650,Cascades High School,01M650         ,310100011650,High school,226,NULL,NULL,NULL,NULL
+937,Q042,P.S./M.S 042 R. Vernam,27Q042         ,342700010042,K-8,712,NULL,NULL,NULL,NULL
+938,Q212,P.S. 212,30Q212         ,343000010212,Elementary,780,NULL,NULL,NULL,NULL
+939,R057,P.S. 057 Hubert H. Humphrey,31R057         ,353100010057,Elementary,639,NULL,NULL,NULL,NULL
+940,R470,Concord High School,31R470         ,353100011470,High school,170,NULL,NULL,NULL,NULL
+941,X117,I.S. 117 Joseph H. Wade,09X117         ,320900010117,Junior High-Intermediate-Middle,802,NULL,NULL,NULL,NULL
+942,X530,Banana Kelly High School,08X530         ,320800011530,High school,464,NULL,NULL,NULL,NULL
+943,K002,Parkside Preparatory Academy,17K002         ,331700010002,Junior High-Intermediate-Middle,400,NULL,NULL,NULL,NULL
+944,K177,P.S. 177 The Marlboro,21K177         ,332100010177,Elementary,898,NULL,NULL,NULL,NULL
+945,K590,Medgar Evers College Preparatory School,17K590         ,331700011590,Secondary School,939,NULL,NULL,NULL,NULL
+946,M500,Unity Center for Urban Technologies,02M500         ,310200011500,High school,231,NULL,NULL,NULL,NULL
+947,Q181,P.S. 181 Brookfield,29Q181         ,342900010181,Elementary,436,NULL,NULL,NULL,NULL
+948,R021,P.S. 21 Margaret Emery-Elm Park,31R021         ,353100010021,Elementary,506,NULL,NULL,NULL,NULL
+949,X069,P.S. 069 Journey Prep School,08X069         ,320800010069,Elementary,596,NULL,NULL,NULL,NULL
+950,X180,M.S. 180 Dr. Daniel Hale Williams,11X180         ,321100010180,Junior High-Intermediate-Middle,691,NULL,NULL,NULL,NULL
+951,K030,PS/IS 30 Mary White Ovington,20K030         ,332000010030,K-8,346,NULL,NULL,NULL,NULL
+952,K149,P.S. 149 Danny Kaye,19K149         ,331900010149,Elementary,781,NULL,NULL,NULL,NULL
+953,K247,P.S. 247 Brooklyn,20K247         ,332000010247,Elementary,699,NULL,NULL,NULL,NULL
+954,M115,P.S. 115 Alexander Humboldt,06M115         ,310600010115,Elementary,654,NULL,NULL,NULL,NULL
+955,Q078,P.S./I.S. 78Q,30Q078         ,343000010078,K-8,247,NULL,NULL,NULL,NULL
+956,Q193,P.S. 193 Alfred J. Kennedy,25Q193         ,342500010193,Elementary,507,NULL,NULL,NULL,NULL
+957,Q495,Bayside High School,26Q495         ,342600011495,High school,3575,NULL,NULL,NULL,NULL
+958,X097,P.S. 097 Bronx,11X097         ,321100010097,Elementary,716,NULL,NULL,NULL,NULL
+959,K267,M.S. 267 Math Science & Technology,16K267         ,331600010267,Junior High-Intermediate-Middle,316,NULL,NULL,NULL,NULL
+960,M217,P.S./I.S. 217 Roosevelt Island,02M217         ,310200010217,K-8,409,NULL,NULL,NULL,NULL
+961,M630,Art and Design High School,02M630         ,310200011630,High school,1387,NULL,NULL,NULL,NULL
+962,Q197,P.S. 197 The Ocean School,27Q197         ,342700010197,Elementary,513,NULL,NULL,NULL,NULL
+963,Q499,The Queens College School for Math Science and Technology,25Q499         ,342500011499,K-8,484,NULL,NULL,NULL,NULL
+964,R037,P.S. R037,75R037         ,307500015037,K-12 all grades,315,NULL,NULL,NULL,NULL
+965,X211,P.S. 211,12X211         ,321200010211,K-8,699,NULL,NULL,NULL,NULL
+966,X415,Christopher Columbus High School,11X415         ,321100011415,High school,1396,NULL,NULL,NULL,NULL
+967,K006,P.S. 006,17K006         ,331700010006,Elementary,660,NULL,NULL,NULL,NULL
+968,K022,P.S. 022,17K022         ,331700010022,Elementary,515,NULL,NULL,NULL,NULL
+969,K279,P.S. 279 Herman Schreiber,18K279         ,331800010279,Elementary,638,NULL,NULL,NULL,NULL
+970,M075,P.S. 075 Emily Dickinson,03M075         ,310300010075,Elementary,733,NULL,NULL,NULL,NULL
+971,M520,Murry Bergtraum High School for Business Careers,02M520         ,310200011520,High school,2562,NULL,NULL,NULL,NULL
+972,Q752,Queens Transition Center,75Q752         ,307500014752,High school,400,NULL,NULL,NULL,NULL
+973,R025,South Richmond High School I.S./P.S. 25,75R025         ,307500015025,K-12 all grades,492,NULL,NULL,NULL,NULL
+974,K145,P.S. 145 Andrew Jackson,32K145         ,333200010145,Elementary,904,NULL,NULL,NULL,NULL
+975,K243,P.S. 243K- The Weeksville School,16K243         ,331600010243,Elementary,363,NULL,NULL,NULL,NULL
+976,K398,P.S. 398 Walter Weaver,17K398         ,331700010398,Elementary,360,NULL,NULL,NULL,NULL
+977,K447,The Math & Science Exploratory School,15K447         ,331500010447,Junior High-Intermediate-Middle,529,NULL,NULL,NULL,NULL
+978,M111,P.S. 111 Adolph S. Ochs,02M111         ,310200010111,K-8,588,NULL,NULL,NULL,NULL
+979,M528,I.S. 528 Bea Fuller Rodgers School,06M528         ,310600010528,Junior High-Intermediate-Middle,271,NULL,NULL,NULL,NULL
+980,X207,P.S. 207,10X207         ,321000010207,Elementary,435,NULL,NULL,NULL,NULL
+981,K157,P.S. 157 Benjamin Franklin,14K157         ,331400010157,Elementary,388,NULL,NULL,NULL,NULL
+982,M182,The Bilingual Bicultural School,04M182         ,310400010182,Elementary,438,NULL,NULL,NULL,NULL
+983,Q062,P. S. 62 - Chester Park School,27Q062         ,342700010062,Elementary,1003,NULL,NULL,NULL,NULL
+985,X065,P.S. 065 Mother Hale Academy,07X065         ,320700010065,Elementary,431,NULL,NULL,NULL,NULL
+1435,X419,Bronx Academy of Promise Charter School,84X419         ,320900860913,Elementary,NULL,NULL,NULL,NULL,NULL
+1436,X398,Bronx Community Charter School,84X398         ,321000860914,Elementary,NULL,NULL,NULL,NULL,NULL
+1437,K652,Brooklyn Ascend Charter School,84K652         ,331800860916,K-12 all grades,NULL,NULL,NULL,NULL,NULL
+1438,X395,NYC Charter High School for Architecture Engineering and Construction Industries (AECI),84X395         ,320700860926,High school,NULL,NULL,NULL,NULL,NULL
+1439,X394,Mott Haven Academy Charter School,84X394         ,320700860925,K-8,NULL,NULL,NULL,NULL,NULL
+1440,X393,University Prep Charter High School,84X393         ,320700860920,High school,NULL,NULL,NULL,NULL,NULL
+1441,X389,Bronx Global Learning Institute for Girls Charter School,84X389         ,320700860915,Elementary,NULL,NULL,NULL,NULL,NULL
+1442,M388,St. HOPE Leadership Academy Charter School,84M388         ,310500860928,Junior High-Intermediate-Middle,NULL,NULL,NULL,NULL,NULL
+1443,M386,Success Academy Charter School - Harlem 4,84M386         ,310300860923,Elementary,NULL,NULL,NULL,NULL,NULL
+1444,M385,Success Academy Charter School - Harlem 3,84M385         ,310400860922,K-8,NULL,NULL,NULL,NULL,NULL
+1445,M384,Success Academy Charter School - Harlem 2,84M384         ,310500860921,Elementary,NULL,NULL,NULL,NULL,NULL
+1446,K651,PAVE Academy Charter School,84K651         ,331500860927,K-8,NULL,NULL,NULL,NULL,NULL
+1447,K649,La Cima Charter School,84K649         ,331600860924,Elementary,NULL,NULL,NULL,NULL,NULL
+1448,K648,Bedford Stuyvesant Collegiate Charter School,84K648         ,331600860918,Secondary School,NULL,NULL,NULL,NULL,NULL
+1449,Q304,VOICE Charter School of New York,84Q304         ,343000860932,Early Childhood,NULL,NULL,NULL,NULL,NULL
+1450,K626,Achievement First Brownsville Charter School,84K626         ,332300860912,K-8,NULL,NULL,NULL,NULL,NULL
+1451,M382,DREAM Charter School,84M382         ,310400860919,Early Childhood,NULL,NULL,NULL,NULL,NULL
+1452,X397,English Language Learners and International Support Preparatory Academy (ELLIS),10X397         ,321000011397,High school,165,NULL,NULL,NULL,NULL
+1453,X424,The Hunts Point School,08X424         ,320800010424,Junior High-Intermediate-Middle,399,NULL,NULL,NULL,NULL
+1454,K659,Cypress Hills Collegiate Preparatory School,19K659         ,331900011659,High school,420,NULL,NULL,NULL,NULL
+1455,K686,Brooklyn School of Inquiry,20K686         ,332000010686,Early Childhood,108,NULL,NULL,NULL,NULL
+1456,M422,Quest to Learn,02M422         ,310200011422,Secondary School,73,NULL,NULL,NULL,NULL
+1457,M423,High School for Excellence and Innovation,06M423         ,310600011423,High school,83,NULL,NULL,NULL,NULL
+1458,K667,Sunset Park High School,15K667         ,331500011667,High school,370,NULL,NULL,NULL,NULL
+1459,K366,THE SCIENCE AND MEDICINE MIDDLE SCHOOL,18K366         ,331800010366,Junior High-Intermediate-Middle,103,NULL,NULL,NULL,NULL
+1460,K673,East Brooklyn Community High School,18K673         ,331800011673,High school,150,NULL,NULL,NULL,NULL
+1461,K682,The Academy of Talented Scholars,20K682         ,332000010682,Early Childhood,121,NULL,NULL,NULL,NULL
+1462,K688,The Brooklyn Academy of Global Finance,16K688         ,331600011688,High school,101,NULL,NULL,NULL,NULL
+1463,M421,West Prep Academy,03M421         ,310300010421,Junior High-Intermediate-Middle,74,NULL,NULL,NULL,NULL
+1464,Q317,WATERSIDE CHILDRENS STUDIO SCHOOL,27Q317         ,342700010317,Elementary,290,NULL,NULL,NULL,NULL
+1465,Q318,WATERSIDE SCHOOL FOR LEADERSHIP,27Q318         ,342700010318,Junior High-Intermediate-Middle,72,NULL,NULL,NULL,NULL
+1466,Q319,VILLAGE ACADEMY,27Q319         ,342700010319,Junior High-Intermediate-Middle,74,NULL,NULL,NULL,NULL
+1467,R861,Staten Island School of Civic Leadership,31R861         ,353100010861,Elementary,299,NULL,NULL,NULL,NULL
+1468,X443,The Family School,09X443         ,320900010443,Elementary,314,NULL,NULL,NULL,NULL
+1469,X467,Mott Hall Community School,08X467         ,320800010467,Junior High-Intermediate-Middle,74,NULL,NULL,NULL,NULL
+1470,X468,Pelham Academy of Academics and Community Engagement,11X468         ,321100010468,Junior High-Intermediate-Middle,121,NULL,NULL,NULL,NULL
+1471,X478,THE CINEMA SCHOOL,12X478         ,321200011478,High school,72,NULL,NULL,NULL,NULL
+1472,X479,Bronx Career and College Preparatory High School ,12X479         ,321200011479,High school,84,NULL,NULL,NULL,NULL
+1473,K676,Red Hook Neighborhood School,15K676         ,331500010676,Elementary,140,NULL,NULL,NULL,NULL
+1474,K677,East New York Elementary School of Excellence,19K677         ,331900010677,Elementary,316,NULL,NULL,NULL,NULL
+1475,K678,East New York Middle School of Excellence,19K678         ,331900010678,Junior High-Intermediate-Middle,84,NULL,NULL,NULL,NULL
+1476,K674,City Polytechnic High School of Engineering Architecture and Technology,13K674         ,331300011674,High school,124,NULL,NULL,NULL,NULL
+1477,M392,MANHATTAN BUSINESS ACADEMY,02M392         ,310200011392,High school,122,NULL,NULL,NULL,NULL
+1478,M393,BUSINESS OF SPORTS SCHOOL,02M393         ,310200011393,High school,103,NULL,NULL,NULL,NULL
+1479,M394,EMMA LAZARUS HIGH SCHOOL,02M394         ,310200011394,High school,150,NULL,NULL,NULL,NULL
+1480,M397,SPRUCE STREET SCHOOL,02M397         ,310200010397,Early Childhood,48,NULL,NULL,NULL,NULL
