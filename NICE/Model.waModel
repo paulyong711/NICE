@@ -9,8 +9,8 @@
 					"isOpen": "true",
 					"pathVisible": true,
 					"position": {
-						"X": 271,
-						"Y": 16
+						"X": 321,
+						"Y": 21
 					}
 				}
 			},
@@ -20,8 +20,8 @@
 					"isOpen": "true",
 					"pathVisible": true,
 					"position": {
-						"X": 555,
-						"Y": 19
+						"X": 639,
+						"Y": 25
 					}
 				}
 			},
@@ -31,8 +31,8 @@
 					"isOpen": "true",
 					"pathVisible": true,
 					"position": {
-						"X": 276,
-						"Y": 433
+						"X": 23,
+						"Y": 246
 					}
 				}
 			},
@@ -42,8 +42,8 @@
 					"isOpen": "true",
 					"pathVisible": false,
 					"position": {
-						"X": 10,
-						"Y": 246
+						"X": 30,
+						"Y": 22
 					}
 				}
 			}
@@ -51,7 +51,7 @@
 		"model": {
 			"scriptMode": "manual",
 			"workspaceLeft": 0,
-			"workspaceTop": 1000,
+			"workspaceTop": 0,
 			"lastScriptLocation": {
 				"Building": {
 					"method": "Building/Building-methods.js"
@@ -139,11 +139,11 @@
 				},
 				{
 					"name": "networks",
+					"kind": "relatedEntities",
 					"scope": "public",
-					"reversePath": true,
-					"path": "theBuilding",
 					"type": "Networks",
-					"kind": "relatedEntities"
+					"reversePath": true,
+					"path": "theBuilding"
 				}
 			],
 			"methods": [
@@ -224,285 +224,428 @@
 				},
 				{
 					"name": "idfId",
+					"kind": "storage",
 					"scope": "public",
-					"type": "number",
-					"kind": "storage"
+					"type": "number"
 				},
 				{
 					"name": "cabinetLocationID",
+					"kind": "storage",
+					"scope": "public",
+					"type": "number"
+				},
+				{
+					"name": "theBuilding",
+					"kind": "relatedEntity",
+					"scope": "public",
+					"type": "Building",
+					"path": "Building"
+				},
+				{
+					"name": "networkAddress",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "netMask",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "serviceNetwork",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "secondScope",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "vlan2",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "vlan2Netmask",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "vlan2Exclude",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "vlan21",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "vlan21Netmask",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "vlan21Exclude",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "monitorNetwork",
+					"kind": "storage",
+					"scope": "public",
+					"type": "bool"
+				},
+				{
+					"name": "monitorNetChange",
+					"kind": "storage",
+					"scope": "public",
+					"type": "bool"
+				},
+				{
+					"name": "status",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "deployedDate",
+					"kind": "storage",
+					"scope": "public",
+					"type": "date",
+					"simpleDate": false
+				},
+				{
+					"name": "model",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "caas",
+					"kind": "storage",
+					"scope": "public",
+					"type": "bool"
+				},
+				{
+					"name": "caasDate",
+					"kind": "storage",
+					"scope": "public",
+					"type": "date",
+					"simpleDate": false
+				},
+				{
+					"name": "cdn",
+					"kind": "storage",
+					"scope": "public",
+					"type": "bool"
+				},
+				{
+					"name": "cdnDate",
+					"kind": "storage",
+					"scope": "public",
+					"type": "date",
+					"simpleDate": false
+				},
+				{
+					"name": "iptv",
+					"kind": "storage",
+					"scope": "public",
+					"type": "bool"
+				},
+				{
+					"name": "iptvDate",
+					"kind": "storage",
+					"scope": "public",
+					"type": "date",
+					"simpleDate": false
+				},
+				{
+					"name": "ipdvs",
+					"kind": "storage",
+					"scope": "public",
+					"type": "bool"
+				},
+				{
+					"name": "ipdvsDate",
+					"kind": "storage",
+					"scope": "public",
+					"type": "date",
+					"simpleDate": false
+				},
+				{
+					"name": "lonWorks",
+					"kind": "storage",
+					"scope": "public",
+					"type": "bool"
+				},
+				{
+					"name": "lonWorksDate",
+					"kind": "storage",
+					"scope": "public",
+					"type": "date",
+					"simpleDate": false
+				},
+				{
+					"name": "pos",
+					"kind": "storage",
+					"scope": "public",
+					"type": "bool"
+				},
+				{
+					"name": "posDate",
+					"kind": "storage",
+					"scope": "public",
+					"type": "date",
+					"simpleDate": false
+				},
+				{
+					"name": "multiAdminVlan",
+					"kind": "storage",
+					"scope": "public",
+					"type": "bool"
+				},
+				{
+					"name": "vrf",
+					"kind": "storage",
+					"scope": "public",
+					"type": "bool"
+				},
+				{
+					"name": "x0",
+					"kind": "storage",
+					"scope": "public",
+					"type": "bool"
+				},
+				{
+					"name": "mainFrameAccess",
+					"kind": "storage",
+					"scope": "public",
+					"type": "bool"
+				},
+				{
+					"name": "mainFrameDate",
+					"kind": "storage",
+					"scope": "public",
+					"type": "date",
+					"simpleDate": false
+				},
+				{
+					"name": "dialBackup",
+					"kind": "storage",
+					"scope": "public",
+					"type": "bool"
+				},
+				{
+					"name": "dialBackupDate",
+					"kind": "storage",
+					"scope": "public",
+					"type": "date",
+					"simpleDate": false
+				},
+				{
+					"name": "phoneNumber",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "wirelessModel",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "wirelessDate",
+					"kind": "storage",
+					"scope": "public",
+					"type": "date",
+					"simpleDate": false
+				},
+				{
+					"name": "ssid",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "wepkey",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "presharedKey",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "proconRsa",
+					"kind": "storage",
+					"scope": "public",
+					"type": "bool"
+				},
+				{
+					"name": "deployed",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "rodc",
+					"kind": "storage",
+					"scope": "public",
+					"type": "bool"
+				},
+				{
+					"name": "rodcDate",
+					"kind": "storage",
+					"scope": "public",
+					"type": "date",
+					"simpleDate": false
+				},
+				{
+					"name": "ngwClientsWindowsXp",
+					"scope": "public",
+					"type": "bool",
+					"kind": "storage"
+				},
+				{
+					"name": "ngwClientsWindowsXpDate",
+					"scope": "public",
+					"type": "date",
+					"kind": "storage"
+				},
+				{
+					"name": "ngwClientsWindows7",
+					"scope": "public",
+					"type": "bool",
+					"kind": "storage"
+				},
+				{
+					"name": "ngwClientsWindow7Date",
+					"scope": "public",
+					"type": "date",
+					"kind": "storage"
+				},
+				{
+					"name": "ngwClientsMacintosh",
+					"scope": "public",
+					"type": "bool",
+					"kind": "storage"
+				},
+				{
+					"name": "ngwClientsMacintoshDate",
+					"scope": "public",
+					"type": "date",
+					"kind": "storage"
+				},
+				{
+					"name": "iZone",
+					"scope": "public",
+					"type": "bool",
+					"kind": "storage"
+				},
+				{
+					"name": "iZoneDate",
+					"scope": "public",
+					"type": "date",
+					"kind": "storage"
+				},
+				{
+					"name": "cle",
+					"scope": "public",
+					"type": "bool",
+					"kind": "storage"
+				},
+				{
+					"name": "cleDate",
+					"scope": "public",
+					"type": "date",
+					"kind": "storage"
+				},
+				{
+					"name": "ils",
+					"scope": "public",
+					"type": "bool",
+					"kind": "storage"
+				},
+				{
+					"name": "ilsDate",
+					"scope": "public",
+					"type": "date",
+					"kind": "storage"
+				},
+				{
+					"name": "monitorHis",
+					"scope": "public",
+					"type": "bool",
+					"kind": "storage"
+				},
+				{
+					"name": "monitorHisDate",
+					"scope": "public",
+					"type": "date",
+					"kind": "storage"
+				},
+				{
+					"name": "magicDefaultSchoolId",
 					"scope": "public",
 					"type": "number",
 					"kind": "storage"
 				},
 				{
-					"name": "theBuilding",
-					"scope": "public",
-					"path": "Building",
-					"type": "Building",
-					"kind": "relatedEntity"
-				},
-				{
-					"name": "networkAddress",
+					"name": "defaultNetwork",
 					"scope": "public",
 					"type": "string",
 					"kind": "storage"
 				},
 				{
-					"name": "netMask",
-					"scope": "public",
-					"type": "string",
-					"kind": "storage"
-				},
-				{
-					"name": "serviceNetwork",
-					"scope": "public",
-					"type": "string",
-					"kind": "storage"
-				},
-				{
-					"name": "secondScope",
-					"scope": "public",
-					"type": "string",
-					"kind": "storage"
-				},
-				{
-					"name": "vlan2",
-					"scope": "public",
-					"type": "string",
-					"kind": "storage"
-				},
-				{
-					"name": "vlan2Netmask",
-					"scope": "public",
-					"type": "string",
-					"kind": "storage"
-				},
-				{
-					"name": "vlan2Exclude",
-					"scope": "public",
-					"type": "string",
-					"kind": "storage"
-				},
-				{
-					"name": "vlan21",
-					"scope": "public",
-					"type": "string",
-					"kind": "storage"
-				},
-				{
-					"name": "vlan21Netmask",
-					"scope": "public",
-					"type": "string",
-					"kind": "storage"
-				},
-				{
-					"name": "vlan21Exclude",
-					"scope": "public",
-					"type": "string",
-					"kind": "storage"
-				},
-				{
-					"name": "monitorNetwork",
+					"name": "serviceNetworkDeployed",
 					"scope": "public",
 					"type": "bool",
 					"kind": "storage"
 				},
 				{
-					"name": "monitorNetChange",
-					"scope": "public",
-					"type": "bool",
-					"kind": "storage"
-				},
-				{
-					"name": "status",
-					"scope": "public",
-					"type": "string",
-					"kind": "storage"
-				},
-				{
-					"name": "deployedDate",
+					"name": "serviceNetworkDeployedDate",
 					"scope": "public",
 					"type": "date",
 					"kind": "storage"
 				},
 				{
-					"name": "model",
+					"name": "siteTypeId",
+					"scope": "public",
+					"type": "number",
+					"kind": "storage"
+				},
+				{
+					"name": "wirelessRadios",
 					"scope": "public",
 					"type": "string",
 					"kind": "storage"
 				},
 				{
-					"name": "caas",
+					"name": "wirelessModel11b",
 					"scope": "public",
 					"type": "bool",
 					"kind": "storage"
 				},
 				{
-					"name": "caasDate",
-					"scope": "public",
-					"type": "date",
-					"kind": "storage"
-				},
-				{
-					"name": "cdn",
+					"name": "nme",
 					"scope": "public",
 					"type": "bool",
-					"kind": "storage"
-				},
-				{
-					"name": "cdnDate",
-					"scope": "public",
-					"type": "date",
-					"kind": "storage"
-				},
-				{
-					"name": "iptv",
-					"scope": "public",
-					"type": "bool",
-					"kind": "storage"
-				},
-				{
-					"name": "iptvDate",
-					"scope": "public",
-					"type": "date",
-					"kind": "storage"
-				},
-				{
-					"name": "ipdvs",
-					"scope": "public",
-					"type": "bool",
-					"kind": "storage"
-				},
-				{
-					"name": "ipdvsDate",
-					"scope": "public",
-					"type": "date",
-					"kind": "storage"
-				},
-				{
-					"name": "lonWorks",
-					"scope": "public",
-					"type": "bool",
-					"kind": "storage"
-				},
-				{
-					"name": "lonWorksDate",
-					"scope": "public",
-					"type": "date",
-					"kind": "storage"
-				},
-				{
-					"name": "pos",
-					"scope": "public",
-					"type": "bool",
-					"kind": "storage"
-				},
-				{
-					"name": "posDate",
-					"scope": "public",
-					"type": "date",
-					"kind": "storage"
-				},
-				{
-					"name": "multiAdminVlan",
-					"scope": "public",
-					"type": "bool",
-					"kind": "storage"
-				},
-				{
-					"name": "vrf",
-					"scope": "public",
-					"type": "bool",
-					"kind": "storage"
-				},
-				{
-					"name": "x0",
-					"scope": "public",
-					"type": "bool",
-					"kind": "storage"
-				},
-				{
-					"name": "mainFrameAccess",
-					"scope": "public",
-					"type": "bool",
-					"kind": "storage"
-				},
-				{
-					"name": "mainFrameDate",
-					"scope": "public",
-					"type": "date",
-					"kind": "storage"
-				},
-				{
-					"name": "dialBackup",
-					"scope": "public",
-					"type": "bool",
-					"kind": "storage"
-				},
-				{
-					"name": "dialBackupDate",
-					"scope": "public",
-					"type": "date",
-					"kind": "storage"
-				},
-				{
-					"name": "phoneNumber",
-					"scope": "public",
-					"type": "string",
-					"kind": "storage"
-				},
-				{
-					"name": "wirelessModel",
-					"scope": "public",
-					"type": "string",
-					"kind": "storage"
-				},
-				{
-					"name": "wirelessDate",
-					"scope": "public",
-					"type": "date",
-					"kind": "storage"
-				},
-				{
-					"name": "ssid",
-					"scope": "public",
-					"type": "string",
-					"kind": "storage"
-				},
-				{
-					"name": "wepkey",
-					"scope": "public",
-					"type": "string",
-					"kind": "storage"
-				},
-				{
-					"name": "presharedKey",
-					"scope": "public",
-					"type": "string",
-					"kind": "storage"
-				},
-				{
-					"name": "proconRsa",
-					"scope": "public",
-					"type": "bool",
-					"kind": "storage"
-				},
-				{
-					"name": "deployed",
-					"scope": "public",
-					"type": "string",
-					"kind": "storage"
-				},
-				{
-					"name": "rodc",
-					"scope": "public",
-					"type": "bool",
-					"kind": "storage"
-				},
-				{
-					"name": "rodcDate",
-					"scope": "public",
-					"type": "date",
 					"kind": "storage"
 				}
 			],

@@ -5,10 +5,10 @@
 
 #label34 {
 	 z-index: 8;
-	 width: 40px;
-	 height: 13px;
-	 top: 162px;
-	 left: 54px;
+	 width: 37px;
+	 height: 16px;
+	 top: 161px;
+	 left: 57px;
 	
 	 position: absolute;
 	 
@@ -17,8 +17,8 @@
 #label33 {
 	 z-index: 6;
 	 width: 75px;
-	 height: 13px;
-	 top: 108px;
+	 height: 16px;
+	 top: 107px;
 	 left: 15px;
 	
 	 position: absolute;
@@ -40,8 +40,8 @@
 #label32 {
 	 z-index: 4;
 	 width: 75px;
-	 height: 13px;
-	 top: 66px;
+	 height: 16px;
+	 top: 65px;
 	 left: 15px;
 	
 	 position: absolute;
@@ -63,8 +63,8 @@
 #label31 {
 	 z-index: 2;
 	 width: 75px;
-	 height: 13px;
-	 top: 24px;
+	 height: 16px;
+	 top: 23px;
 	 left: 15px;
 	
 	 position: absolute;
@@ -96,10 +96,10 @@
 
 #label30 {
 	 z-index: 17;
-	 width: 44px;
-	 height: 13px;
-	 top: 163px;
-	 left: 50px;
+	 width: 40px;
+	 height: 16px;
+	 top: NaNpx;
+	 left: NaNpx;
 	
 	 position: absolute;
 	 
@@ -107,10 +107,10 @@
 
 #label29 {
 	 z-index: 16;
-	 width: 80px;
-	 height: 13px;
-	 top: 123px;
-	 left: 14px;
+	 width: 71px;
+	 height: 16px;
+	 top: NaNpx;
+	 left: NaNpx;
 	
 	 position: absolute;
 	 
@@ -174,9 +174,9 @@
 #label22 {
 	 z-index: 2;
 	 width: 75px;
-	 height: 13px;
-	 top: 83px;
-	 left: 19px;
+	 height: 16px;
+	 top: NaNpx;
+	 left: NaNpx;
 	
 	 position: absolute;
 	 min-width: 75px;
@@ -208,9 +208,9 @@
 #label21 {
 	 z-index: 15;
 	 width: 75px;
-	 height: 13px;
-	 top: 42px;
-	 left: 19px;
+	 height: 16px;
+	 top: NaNpx;
+	 left: NaNpx;
 	
 	 position: absolute;
 	 min-width: 75px;
@@ -309,7 +309,7 @@
 	 height: 405px;
 	 top: 75px;
 	 left: 38px;
-	 right: 70px;
+	 right: 65px;
 	
 	 position: absolute;
 	 
@@ -339,10 +339,10 @@
 
 #networkGrid {
 	 z-index: 3;
-	 height: 140px;
-	 top: 540px;
+	 height: 183px;
+	 top: 500px;
 	 left: 40px;
-	 right: 73px;
+	 right: 63px;
 	
 	 position: absolute;
 	 
@@ -353,7 +353,7 @@
 	 width: 200px;
 	 height: 40px;
 	 top: 20px;
-	 right: 70px;
+	 right: 65px;
 	
 	 position: absolute;
 	 border-bottom-color: rgb(86, 170, 255);

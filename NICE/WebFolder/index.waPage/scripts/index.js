@@ -15,12 +15,18 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 		
 	};// @lock
 
+	textSearch.click = function textSearch_click (event)// @startlock
+	{// @endlock
+		$$('textSearch').setValue('');
+	};// @lock
+
 	textSearch.keyup = function textSearch_keyup (event)// @startlock
 	{// @endlock
 		waf.sources.network.query("rackCode = :1 or theBuilding.address = :1", "*" + $$('textSearch').getValue() + "*");
 	};// @lock
 
 // @region eventManager// @startlock
+	WAF.addListener("textSearch", "click", textSearch.click, "WAF");
 	WAF.addListener("textClear", "click", textClear.click, "WAF");
 	WAF.addListener("textSearch", "keyup", textSearch.keyup, "WAF");
 // @endregion
