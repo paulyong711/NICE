@@ -51,7 +51,7 @@
 		"model": {
 			"scriptMode": "manual",
 			"workspaceLeft": 0,
-			"workspaceTop": 0,
+			"workspaceTop": 700,
 			"lastScriptLocation": {
 				"Building": {
 					"method": "Building/Building-methods.js"
@@ -223,7 +223,7 @@
 					"type": "string"
 				},
 				{
-					"name": "idfId",
+					"name": "idfID",
 					"kind": "storage",
 					"scope": "public",
 					"type": "number"
@@ -480,7 +480,7 @@
 					"type": "string"
 				},
 				{
-					"name": "wepkey",
+					"name": "wepKey",
 					"kind": "storage",
 					"scope": "public",
 					"type": "string"
@@ -501,7 +501,7 @@
 					"name": "deployed",
 					"kind": "storage",
 					"scope": "public",
-					"type": "string"
+					"type": "bool"
 				},
 				{
 					"name": "rodc",
@@ -518,135 +518,143 @@
 				},
 				{
 					"name": "ngwClientsWindowsXp",
+					"kind": "storage",
 					"scope": "public",
-					"type": "bool",
-					"kind": "storage"
+					"type": "bool"
 				},
 				{
 					"name": "ngwClientsWindowsXpDate",
+					"kind": "storage",
 					"scope": "public",
 					"type": "date",
-					"kind": "storage"
+					"simpleDate": false
 				},
 				{
 					"name": "ngwClientsWindows7",
+					"kind": "storage",
 					"scope": "public",
-					"type": "bool",
-					"kind": "storage"
+					"type": "bool"
 				},
 				{
 					"name": "ngwClientsWindow7Date",
+					"kind": "storage",
 					"scope": "public",
 					"type": "date",
-					"kind": "storage"
+					"simpleDate": false
 				},
 				{
 					"name": "ngwClientsMacintosh",
+					"kind": "storage",
 					"scope": "public",
-					"type": "bool",
-					"kind": "storage"
+					"type": "bool"
 				},
 				{
 					"name": "ngwClientsMacintoshDate",
+					"kind": "storage",
 					"scope": "public",
 					"type": "date",
-					"kind": "storage"
+					"simpleDate": false
 				},
 				{
 					"name": "iZone",
+					"kind": "storage",
 					"scope": "public",
-					"type": "bool",
-					"kind": "storage"
+					"type": "bool"
 				},
 				{
 					"name": "iZoneDate",
+					"kind": "storage",
 					"scope": "public",
 					"type": "date",
-					"kind": "storage"
+					"simpleDate": false
 				},
 				{
 					"name": "cle",
+					"kind": "storage",
 					"scope": "public",
-					"type": "bool",
-					"kind": "storage"
+					"type": "bool"
 				},
 				{
 					"name": "cleDate",
+					"kind": "storage",
 					"scope": "public",
 					"type": "date",
-					"kind": "storage"
+					"simpleDate": false
 				},
 				{
 					"name": "ils",
+					"kind": "storage",
 					"scope": "public",
-					"type": "bool",
-					"kind": "storage"
+					"type": "bool"
 				},
 				{
 					"name": "ilsDate",
+					"kind": "storage",
 					"scope": "public",
 					"type": "date",
-					"kind": "storage"
+					"simpleDate": false
 				},
 				{
 					"name": "monitorHis",
+					"kind": "storage",
 					"scope": "public",
-					"type": "bool",
-					"kind": "storage"
+					"type": "bool"
 				},
 				{
 					"name": "monitorHisDate",
+					"kind": "storage",
 					"scope": "public",
 					"type": "date",
-					"kind": "storage"
+					"simpleDate": false
 				},
 				{
-					"name": "magicDefaultSchoolId",
+					"name": "magicDefaultSchoolID",
+					"kind": "storage",
 					"scope": "public",
-					"type": "number",
-					"kind": "storage"
+					"type": "number"
 				},
 				{
 					"name": "defaultNetwork",
+					"kind": "storage",
 					"scope": "public",
-					"type": "string",
-					"kind": "storage"
+					"type": "string"
 				},
 				{
 					"name": "serviceNetworkDeployed",
+					"kind": "storage",
 					"scope": "public",
-					"type": "bool",
-					"kind": "storage"
+					"type": "bool"
 				},
 				{
 					"name": "serviceNetworkDeployedDate",
+					"kind": "storage",
 					"scope": "public",
 					"type": "date",
-					"kind": "storage"
+					"simpleDate": false
 				},
 				{
-					"name": "siteTypeId",
+					"name": "siteTypeID",
+					"kind": "storage",
 					"scope": "public",
-					"type": "number",
-					"kind": "storage"
+					"type": "number"
 				},
 				{
 					"name": "wirelessRadios",
+					"kind": "storage",
 					"scope": "public",
-					"type": "string",
-					"kind": "storage"
+					"type": "string"
 				},
 				{
 					"name": "wirelessModel11b",
+					"kind": "storage",
 					"scope": "public",
-					"type": "bool",
-					"kind": "storage"
+					"type": "bool"
 				},
 				{
 					"name": "nme",
+					"kind": "storage",
 					"scope": "public",
-					"type": "bool",
-					"kind": "storage"
+					"type": "bool"
 				}
 			],
 			"methods": [

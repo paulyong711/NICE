@@ -22,7 +22,7 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 
 	textSearch.keyup = function textSearch_keyup (event)// @startlock
 	{// @endlock
-		waf.sources.network.query("rackCode = :1 or theBuilding.address = :1", "*" + $$('textSearch').getValue() + "*");
+		waf.sources.network.query("rackCode = :1 or theBuilding.address = :1 and status = 'active'" , "*" + $$('textSearch').getValue() + "*");
 	};// @lock
 
 // @region eventManager// @startlock

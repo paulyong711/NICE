@@ -12,12 +12,12 @@ model.Network.methods.importNetwork = function() {
            theQuery = new ds.Network({
            	
            	 ID							: columns[0],
-           	 rRackCode					: columns[1],
+           	 rackCode					: columns[1],
              idfID						: columns[2],
              cabinetLocationID			: columns[3],
              theBuilding				: myBuildingID,
            	 networkAddress				: columns[5],
-             netmask					: columns[6],
+             netMask					: columns[6],
              serviceNetwork				: columns[7],
            	 secondScope				: columns[8],
            	 vlan2						: columns[9],
