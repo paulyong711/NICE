@@ -4,8 +4,12 @@
 //ds.Building.importBuildings();
 
 //ds.Network.remove();
-//ds.Network.length;
+ds.Network.length;
 //ds.Network.importNetwork();
+
+//ds.Location.remove();
+//ds.Location.length;
+//ds.Location.importLocation();
 
 //var mydata = ds.Network.query('rackCode= "24Q*"');
 //mydata;

@@ -9,8 +9,8 @@
 					"isOpen": "true",
 					"pathVisible": true,
 					"position": {
-						"X": 321,
-						"Y": 21
+						"X": 456,
+						"Y": 250
 					}
 				}
 			},
@@ -20,8 +20,8 @@
 					"isOpen": "true",
 					"pathVisible": true,
 					"position": {
-						"X": 639,
-						"Y": 25
+						"X": 815,
+						"Y": 28
 					}
 				}
 			},
@@ -31,8 +31,8 @@
 					"isOpen": "true",
 					"pathVisible": true,
 					"position": {
-						"X": 23,
-						"Y": 246
+						"X": 80,
+						"Y": 292
 					}
 				}
 			},
@@ -51,7 +51,7 @@
 		"model": {
 			"scriptMode": "manual",
 			"workspaceLeft": 0,
-			"workspaceTop": 700,
+			"workspaceTop": 0,
 			"lastScriptLocation": {
 				"Building": {
 					"method": "Building/Building-methods.js"
@@ -190,6 +190,14 @@
 					"scope": "public",
 					"type": "School",
 					"path": "School"
+				},
+				{
+					"name": "networks",
+					"scope": "public",
+					"reversePath": true,
+					"path": "theLocation",
+					"type": "Networks",
+					"kind": "relatedEntities"
 				}
 			],
 			"methods": [
@@ -229,10 +237,11 @@
 					"type": "number"
 				},
 				{
-					"name": "cabinetLocationID",
-					"kind": "storage",
+					"name": "theLocation",
+					"kind": "relatedEntity",
 					"scope": "public",
-					"type": "number"
+					"type": "Location",
+					"path": "Location"
 				},
 				{
 					"name": "theBuilding",

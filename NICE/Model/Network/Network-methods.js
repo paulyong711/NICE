@@ -7,14 +7,16 @@ model.Network.methods.importNetwork = function() {
       columns = oneLine.split(",");
       
       var theQuery = ds.Network.find("ID = :1", columns[0]);
-      var myBuildingID = ds.Building(columns[2]);
+      var myBuildingID = ds.Building(columns[4]);
+      var myLocationID = ds.Location(columns[3]);
+
       if(theQuery == null && !isNaN(columns[0])) { 
            theQuery = new ds.Network({
            	
            	 ID							: columns[0],
            	 rackCode					: columns[1],
              idfID						: columns[2],
-             cabinetLocationID			: columns[3],
+             theLocation				: myLocationID,
              theBuilding				: myBuildingID,
            	 networkAddress				: columns[5],
              netMask					: columns[6],

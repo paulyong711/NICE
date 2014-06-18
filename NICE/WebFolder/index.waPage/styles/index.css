@@ -3,67 +3,145 @@
 	Changes to this CSS file might be lost when it is regenerated.
 */
 
-#textField39 {
-	 z-index: 14;
-	 width: 130px;
-	 height: 22px;
-	 top: 42px;
-	 left: 18px;
+#dataGrid1 {
+	 z-index: 5;
+	 width: 782px;
+	 height: 307px;
+	 top: 14px;
+	 left: 17px;
 	
 	 position: absolute;
 	 
 }
 
-#textField37 {
-	 z-index: 10;
-	 width: 130px;
-	 height: 22px;
-	 top: 104px;
-	 left: 298px;
-	
-	 position: absolute;
-	 
-}
-
-#textField36 {
-	 z-index: 8;
-	 width: 130px;
-	 height: 22px;
-	 top: 104px;
-	 left: 158px;
-	
-	 position: absolute;
-	 
-}
-
-#textField35 {
-	 z-index: 6;
-	 width: 130px;
-	 height: 22px;
-	 top: 104px;
-	 left: 18px;
-	
-	 position: absolute;
-	 
-}
-
-#textField34 {
+#label1 {
 	 z-index: 4;
-	 width: 130px;
-	 height: 22px;
-	 top: 73px;
-	 left: 18px;
+	 width: 89px;
+	 height: 13px;
+	 top: 561px;
+	 left: 116px;
+	
+	 position: absolute;
+	 min-width: 75px;
+	 
+}
+
+#checkbox1 {
+	 z-index: 4;
+	 width: 16px;
+	 height: 16px;
+	 top: 560px;
+	 left: 95px;
 	
 	 position: absolute;
 	 
 }
 
-#textField33 {
-	 z-index: 2;
+#container2 {
+	 z-index: 1;
+	 width: 822px;
+	 height: 340px;
+	 top: 22px;
+	 left: 26px;
+	
+	 position: absolute;
+	 
+}
+
+#textField6 {
+	 width: 130px;
+	 height: 22px;
+	 top: 11px;
+	 left: 159px;
+	
+	 position: absolute;
+	 z-index: 14;
+	 
+}
+
+#textField5 {
+	 width: 130px;
+	 height: 22px;
+	 top: 45px;
+	 left: 364px;
+	
+	 position: absolute;
+	 z-index: 10;
+	 
+}
+
+#textField4 {
+	 width: 62px;
+	 height: 21px;
+	 top: 46px;
+	 left: 293px;
+	
+	 position: absolute;
+	 z-index: 8;
+	 
+}
+
+#textField3 {
+	 width: 130px;
+	 height: 22px;
+	 top: 45px;
+	 left: 155px;
+	
+	 position: absolute;
+	 z-index: 6;
+	 
+}
+
+#textField2 {
+	 width: 130px;
+	 height: 22px;
+	 top: 43px;
+	 left: 17px;
+	
+	 position: absolute;
+	 z-index: 4;
+	 
+}
+
+#textField1 {
 	 width: 130px;
 	 height: 22px;
 	 top: 11px;
 	 left: 18px;
+	
+	 position: absolute;
+	 z-index: 2;
+	 
+}
+
+#container1 {
+	 width: 842px;
+	 height: 81px;
+	 top: 13px;
+	 left: 17px;
+	
+	 position: absolute;
+	 z-index: 1;
+	 
+}
+
+#textField41 {
+	 z-index: 10;
+	 width: 130px;
+	 height: 22px;
+	 top: 18px;
+	 right: 20px;
+	
+	 position: absolute;
+	 
+}
+
+#textField40 {
+	 z-index: 8;
+	 width: 130px;
+	 height: 22px;
+	 top: 53px;
+	 right: 21px;
 	
 	 position: absolute;
 	 
@@ -73,8 +151,8 @@
 	 z-index: 8;
 	 width: 130px;
 	 height: 22px;
-	 top: 88px;
-	 right: 53px;
+	 top: 87px;
+	 right: 21px;
 	
 	 position: absolute;
 	 
@@ -83,8 +161,8 @@
 #label31 {
 	 z-index: 6;
 	 width: 75px;
-	 height: 13px;
-	 top: 93px;
+	 height: 16px;
+	 top: 92px;
 	 left: 15px;
 	
 	 position: absolute;
@@ -106,8 +184,8 @@
 #label28 {
 	 z-index: 4;
 	 width: 75px;
-	 height: 13px;
-	 top: 57px;
+	 height: 16px;
+	 top: 56px;
 	 left: 15px;
 	
 	 position: absolute;
@@ -129,8 +207,8 @@
 #label27 {
 	 z-index: 2;
 	 width: 75px;
-	 height: 13px;
-	 top: 21px;
+	 height: 16px;
+	 top: 20px;
 	 left: 15px;
 	
 	 position: absolute;
@@ -151,10 +229,10 @@
 
 #container6 {
 	 z-index: 16;
-	 width: 233px;
-	 height: 207px;
-	 top: 175px;
-	 left: 260px;
+	 width: 289px;
+	 height: 297px;
+	 top: 24px;
+	 left: 241px;
 	
 	 position: absolute;
 	 
@@ -163,8 +241,8 @@
 #label14 {
 	 z-index: 12;
 	 width: 75px;
-	 height: 13px;
-	 top: 234px;
+	 height: 16px;
+	 top: 233px;
 	 left: 15px;
 	
 	 position: absolute;
@@ -186,8 +264,8 @@
 #label13 {
 	 z-index: 10;
 	 width: 75px;
-	 height: 13px;
-	 top: 192px;
+	 height: 16px;
+	 top: 191px;
 	 left: 15px;
 	
 	 position: absolute;
@@ -208,10 +286,10 @@
 
 #label12 {
 	 z-index: 8;
-	 width: 84px;
-	 height: 13px;
-	 top: 150px;
-	 left: 6px;
+	 width: 76px;
+	 height: 16px;
+	 top: 149px;
+	 left: 14px;
 	
 	 position: absolute;
 	 min-width: 75px;
@@ -232,8 +310,8 @@
 #label11 {
 	 z-index: 6;
 	 width: 75px;
-	 height: 13px;
-	 top: 108px;
+	 height: 16px;
+	 top: 107px;
 	 left: 15px;
 	
 	 position: absolute;
@@ -254,10 +332,10 @@
 
 #label10 {
 	 z-index: 4;
-	 width: 88px;
-	 height: 13px;
-	 top: 66px;
-	 left: 2px;
+	 width: 80px;
+	 height: 16px;
+	 top: 65px;
+	 left: 10px;
 	
 	 position: absolute;
 	 min-width: 75px;
@@ -278,8 +356,8 @@
 #label9 {
 	 z-index: 2;
 	 width: 75px;
-	 height: 13px;
-	 top: 24px;
+	 height: 16px;
+	 top: 23px;
 	 left: 15px;
 	
 	 position: absolute;
@@ -376,10 +454,10 @@
 
 #tabView4 {
 	 z-index: 17;
-	 height: 385px;
+	 height: 405px;
 	 top: 75px;
 	 left: 38px;
-	 right: 70px;
+	 right: 281px;
 	
 	 position: absolute;
 	 
@@ -398,10 +476,10 @@
 
 #textSearch {
 	 z-index: 5;
-	 width: 640px;
 	 height: 20px;
 	 top: 700px;
 	 left: 140px;
+	 right: 425px;
 	
 	 position: absolute;
 	 
@@ -412,7 +490,7 @@
 	 height: 180px;
 	 top: 500px;
 	 left: 40px;
-	 right: 70px;
+	 right: 285px;
 	
 	 position: absolute;
 	 
@@ -420,10 +498,10 @@
 
 #headerContainer {
 	 z-index: 9;
-	 width: 200px;
+	 width: 124px;
 	 height: 40px;
 	 top: 20px;
-	 right: 65px;
+	 right: 280px;
 	
 	 position: absolute;
 	 border-bottom-color: rgb(86, 170, 255);
@@ -456,10 +534,10 @@
 
 #networkContainer {
 	 z-index: 4;
-	 width: 1000px;
-	 height: 360px;
 	 top: 24px;
+	 bottom: 1px;
 	 left: 1px;
+	 right: 1px;
 	
 	 position: absolute;
 	 background-color: rgb(170, 212, 255);
@@ -468,10 +546,10 @@
 
 #schoolContainer {
 	 z-index: 5;
-	 width: 1000px;
-	 height: 360px;
 	 top: 24px;
+	 bottom: 1px;
 	 left: 1px;
+	 right: 1px;
 	
 	 position: absolute;
 	 background-color: rgb(170, 212, 255);
@@ -491,10 +569,10 @@
 
 #buildingContainer {
 	 z-index: 6;
-	 width: 1000px;
-	 height: 360px;
 	 top: 24px;
+	 bottom: 1px;
 	 left: 1px;
+	 right: 1px;
 	
 	 position: absolute;
 	 background-color: rgb(170, 212, 255);
@@ -512,23 +590,12 @@
 	 
 }
 
-#buildingInfo {
-	 z-index: 18;
-	 width: 434px;
-	 height: 149px;
-	 top: 12px;
-	 left: 518px;
-	
-	 position: absolute;
-	 
-}
-
 #networkInfo {
 	 z-index: 13;
-	 height: 345px;
+	 height: 347px;
 	 top: 15px;
-	 left: 18px;
-	 right: 17px;
+	 left: 14px;
+	 right: 11px;
 	
 	 position: absolute;
 	 
