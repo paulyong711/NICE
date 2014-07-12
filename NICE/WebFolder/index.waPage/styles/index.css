@@ -5,10 +5,10 @@
 
 #dataGrid1 {
 	 z-index: 5;
-	 width: 782px;
-	 height: 307px;
-	 top: 14px;
-	 left: 17px;
+	 height: 341px;
+	 top: 10px;
+	 left: 10px;
+	 right: 10px;
 	
 	 position: absolute;
 	 
@@ -16,10 +16,10 @@
 
 #label1 {
 	 z-index: 4;
-	 width: 89px;
-	 height: 13px;
-	 top: 561px;
-	 left: 116px;
+	 width: 81px;
+	 height: 16px;
+	 top: NaNpx;
+	 left: NaNpx;
 	
 	 position: absolute;
 	 min-width: 75px;
@@ -39,89 +39,89 @@
 
 #container2 {
 	 z-index: 1;
-	 width: 822px;
-	 height: 340px;
-	 top: 22px;
-	 left: 26px;
+	 height: 363px;
+	 top: 10px;
+	 left: 10px;
+	 right: 10px;
 	
 	 position: absolute;
 	 
 }
 
 #textField6 {
+	 z-index: 14;
 	 width: 130px;
 	 height: 22px;
 	 top: 11px;
 	 left: 159px;
 	
 	 position: absolute;
-	 z-index: 14;
 	 
 }
 
 #textField5 {
+	 z-index: 10;
 	 width: 130px;
 	 height: 22px;
 	 top: 45px;
 	 left: 364px;
 	
 	 position: absolute;
-	 z-index: 10;
 	 
 }
 
 #textField4 {
+	 z-index: 8;
 	 width: 62px;
 	 height: 21px;
 	 top: 46px;
 	 left: 293px;
 	
 	 position: absolute;
-	 z-index: 8;
 	 
 }
 
 #textField3 {
+	 z-index: 6;
 	 width: 130px;
 	 height: 22px;
 	 top: 45px;
 	 left: 155px;
 	
 	 position: absolute;
-	 z-index: 6;
 	 
 }
 
 #textField2 {
+	 z-index: 4;
 	 width: 130px;
 	 height: 22px;
 	 top: 43px;
 	 left: 17px;
 	
 	 position: absolute;
-	 z-index: 4;
 	 
 }
 
 #textField1 {
+	 z-index: 2;
 	 width: 130px;
 	 height: 22px;
 	 top: 11px;
 	 left: 18px;
 	
 	 position: absolute;
-	 z-index: 2;
 	 
 }
 
 #container1 {
+	 z-index: 1;
 	 width: 842px;
 	 height: 81px;
 	 top: 13px;
 	 left: 17px;
 	
 	 position: absolute;
-	 z-index: 1;
 	 
 }
 
@@ -454,10 +454,10 @@
 
 #tabView4 {
 	 z-index: 17;
-	 height: 405px;
+	 height: 410px;
 	 top: 75px;
-	 left: 38px;
-	 right: 281px;
+	 left: 30px;
+	 right: 30px;
 	
 	 position: absolute;
 	 
@@ -489,8 +489,8 @@
 	 z-index: 3;
 	 height: 180px;
 	 top: 500px;
-	 left: 40px;
-	 right: 285px;
+	 left: 30px;
+	 right: 30px;
 	
 	 position: absolute;
 	 
@@ -501,7 +501,7 @@
 	 width: 124px;
 	 height: 40px;
 	 top: 20px;
-	 right: 280px;
+	 right: 30px;
 	
 	 position: absolute;
 	 border-bottom-color: rgb(86, 170, 255);

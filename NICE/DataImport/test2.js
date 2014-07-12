@@ -4,8 +4,12 @@
 //ds.Building.importBuildings();
 
 //ds.Network.remove();
-ds.Network.length;
+//ds.Network.length;
 //ds.Network.importNetwork();
+
+//ds.School.remove();
+//ds.School.length;
+ds.School.importSchools();
 
 //ds.Location.remove();
 //ds.Location.length;
