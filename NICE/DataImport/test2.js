@@ -4,7 +4,8 @@
 //ds.Building.importBuildings();
 
 //ds.Network.remove();
-ds.Network.length;
+var vcount = ds.Network.query('rackCode = "24Q*"');
+vcount;
 //ds.Network.importNetwork();
 
 //ds.Location.remove();
