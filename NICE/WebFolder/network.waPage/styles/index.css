@@ -3,92 +3,22 @@
 	Changes to this CSS file might be lost when it is regenerated.
 */
 
-#image7 {
-	 width: 24px;
-	 height: 24px;
-	 top: 0px;
-	 left: 0px;
-	
-	 
-}
-
-#waf-body {
-	 background-color: rgb(227, 227, 227);
-	 
-}
-
-#image6 {
-	 z-index: 1;
-	 width: 48px;
-	 height: 48px;
-	 top: 75px;
-	 left: 122px;
-	
-	 position: absolute;
-	 
-}
-
-#image5 {
-	 z-index: 1;
-	 width: 48px;
-	 height: 48px;
-	 top: 72px;
-	 left: 117px;
-	
-	 position: absolute;
-	 
-}
-
-#image4 {
-	 z-index: 1;
-	 width: 48px;
-	 height: 48px;
-	 top: 75px;
-	 left: 123px;
-	
-	 position: absolute;
-	 
-}
-
-#image3 {
-	 z-index: 1;
-	 width: 48px;
-	 height: 48px;
-	 top: 73px;
-	 left: 122px;
-	
-	 position: absolute;
-	 
-}
-
-#image2 {
+#image9 {
 	 z-index: 4;
 	 width: 48px;
 	 height: 48px;
-	 top: 40px;
-	 right: 57px;
-	
-	 position: absolute;
-	 
-}
-
-#image1 {
-	 z-index: 3;
-	 width: 48px;
-	 height: 48px;
-	 top: 100px;
-	 left: 40px;
+	 top: 99px;
+	 left: 118px;
 	
 	 position: absolute;
 	 
 }
 
 #cHomeDetail {
-	 z-index: 2;
 	 height: 540px;
 	 top: 160px;
 	 left: 40px;
-	 right: 45px;
+	 right: 51px;
 	
 	 position: absolute;
 	 background-color: rgb(170, 212, 255);
@@ -104,48 +34,40 @@
 	 border-left-width: 0px;
 	 border-right-width: 0px;
 	 border-bottom-width: 0px;
-	 
-}
-
-#cNetwork {
-	 z-index: 1;
-	 width: 300px;
-	 height: 200px;
-	 top: 39px;
-	 left: 39px;
-	
-	 position: absolute;
-	 
-}
-
-#cWireless {
 	 z-index: 2;
-	 width: 300px;
-	 height: 200px;
-	 top: 39px;
-	 left: 379px;
-	
-	 position: absolute;
 	 
 }
 
-#cReport {
+#richText1 {
+	 width: 66px;
+	 height: 22px;
+	 top: 10px;
+	 left: 571px;
+	
+	 position: absolute;
+	 color: rgb(255, 255, 255);
+	 font-size: 18px;
+	 z-index: 1;
+	 
+}
+
+#image4 {
 	 z-index: 3;
-	 width: 300px;
-	 height: 200px;
-	 top: 279px;
-	 left: 39px;
+	 width: 48px;
+	 height: 48px;
+	 top: 40px;
+	 right: 63px;
 	
 	 position: absolute;
 	 
 }
 
-#cCircuit {
-	 z-index: 4;
-	 width: 300px;
-	 height: 200px;
-	 top: 279px;
-	 left: 379px;
+#image3 {
+	 z-index: 2;
+	 width: 48px;
+	 height: 48px;
+	 top: 100px;
+	 left: 40px;
 	
 	 position: absolute;
 	 
@@ -153,13 +75,12 @@
 
 #cTopBar {
 	 z-index: 1;
-	 width: 540px;
+	 width: 660px;
 	 height: 40px;
 	 top: 100px;
-	 right: 45px;
+	 right: 51px;
 	
 	 position: absolute;
-	 background-color: rgb(170, 212, 255);
 	 border-top-width: 0px;
 	 border-left-width: 0px;
 	 border-right-width: 0px;
@@ -175,7 +96,7 @@
 	 -webkit-box-shadow: rgba(0, 0, 0, 0.199219) 0px 0px 0px 0px;
 	 -moz-box-shadow: rgba(0, 0, 0, 0.199219) 0px 0px 0px 0px;
 	 box-shadow: rgba(0, 0, 0, 0.199219) 0px 0px 0px 0px;
-	
+	 background-color: rgb(170, 212, 255);
 	 
 }
 
