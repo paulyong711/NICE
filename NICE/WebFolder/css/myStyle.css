@@ -1,0 +1,26 @@
+﻿#networkDetail {
+	font: 0.8em Verdana, Genava, Arial, Helvetica, sans-serif;
+	#border: 3px solid #338BA6;
+}
+
+#networkDetail td, th {
+	border: 1px solid #D6DDE6;
+	text-align: left;
+	padding: 0.2em;
+}
+
+#networkDetail th {
+	border: 1px solid #828282;
+	background-color: #BCBCBC;
+	font-weight: bold;
+	text-align: left;
+	padding: 0.2em;
+}
+
+#networkDetail caption {
+	font: bold 120% "Times New Roman", TImes, Serif;
+	background-color: #B0C4DE;
+	color: #33517A;
+	padding: 0.4em 0 0.3em 0;
+	border: 1px solid #789AC6;
+}

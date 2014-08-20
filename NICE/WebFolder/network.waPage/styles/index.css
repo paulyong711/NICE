@@ -3,55 +3,23 @@
 	Changes to this CSS file might be lost when it is regenerated.
 */
 
-#image9 {
-	 z-index: 4;
-	 width: 48px;
-	 height: 48px;
-	 top: 99px;
-	 left: 118px;
+#richText3 {
+	 z-index: 7;
+	 width: 50px;
+	 height: 16px;
+	 top: 59px;
+	 left: 59px;
 	
 	 position: absolute;
 	 
 }
 
-#cHomeDetail {
-	 height: 540px;
-	 top: 160px;
-	 left: 40px;
-	 right: 51px;
-	
-	 position: absolute;
-	 background-color: rgb(170, 212, 255);
-	 border-top-left-radius: 0px;
-	-moz-border-radius-topleft: 0px;
-	 border-top-right-radius: 0px;
-	-moz-border-radius-topright: 0px;
-	 border-bottom-left-radius: 0px;
-	-moz-border-radius-bottomleft: 0px;
-	 border-bottom-right-radius: 0px;
-	-moz-border-radius-bottomright: 0px;
-	 border-top-width: 0px;
-	 border-left-width: 0px;
-	 border-right-width: 0px;
-	 border-bottom-width: 0px;
-	 z-index: 2;
+#waf-body {
+	 background-color: rgb(227, 227, 227);
 	 
 }
 
-#richText1 {
-	 width: 66px;
-	 height: 22px;
-	 top: 10px;
-	 left: 571px;
-	
-	 position: absolute;
-	 color: rgb(255, 255, 255);
-	 font-size: 18px;
-	 z-index: 1;
-	 
-}
-
-#image4 {
+#image2 {
 	 z-index: 3;
 	 width: 48px;
 	 height: 48px;
@@ -62,7 +30,18 @@
 	 
 }
 
-#image3 {
+#image9 {
+	 z-index: 3;
+	 width: 48px;
+	 height: 48px;
+	 top: 99px;
+	 left: 118px;
+	
+	 position: absolute;
+	 
+}
+
+#image1 {
 	 z-index: 2;
 	 width: 48px;
 	 height: 48px;
@@ -73,14 +52,28 @@
 	 
 }
 
-#cTopBar {
+#richText1 {
 	 z-index: 1;
-	 width: 660px;
-	 height: 40px;
-	 top: 100px;
-	 right: 51px;
+	 width: 66px;
+	 height: 22px;
+	 top: 10px;
+	 left: 453px;
 	
 	 position: absolute;
+	 color: rgb(255, 255, 255);
+	 font-size: 18px;
+	 
+}
+
+#cTopBar {
+	 z-index: 1;
+	 width: 540px;
+	 height: 40px;
+	 top: 100px;
+	 right: 45px;
+	
+	 position: absolute;
+	 background-color: rgb(170, 212, 255);
 	 border-top-width: 0px;
 	 border-left-width: 0px;
 	 border-right-width: 0px;
@@ -96,7 +89,63 @@
 	 -webkit-box-shadow: rgba(0, 0, 0, 0.199219) 0px 0px 0px 0px;
 	 -moz-box-shadow: rgba(0, 0, 0, 0.199219) 0px 0px 0px 0px;
 	 box-shadow: rgba(0, 0, 0, 0.199219) 0px 0px 0px 0px;
+	
+	 
+}
+
+#tSearchQuery {
+	 z-index: 4;
+	 width: 578px;
+	 height: 23px;
+	 top: 479px;
+	 left: 119px;
+	
+	 position: absolute;
+	 
+}
+
+#gSearchQuery {
+	 z-index: 1;
+	 height: 180px;
+	 top: 279px;
+	 left: 19px;
+	 right: 19px;
+	
+	 position: absolute;
+	 
+}
+
+#cNetworkDetail {
+	 z-index: 4;
+	 height: 540px;
+	 top: 160px;
+	 left: 40px;
+	 right: 45px;
+	
+	 position: absolute;
 	 background-color: rgb(170, 212, 255);
+	 
+}
+
+#bClearSearch {
+	 z-index: 2;
+	 width: 92px;
+	 height: 22px;
+	 top: 479px;
+	 left: 19px;
+	
+	 position: absolute;
+	 
+}
+
+#networkDetail {
+	 z-index: 11;
+	 height: 240px;
+	 top: 19px;
+	 left: 19px;
+	 right: 19px;
+	
+	 position: absolute;
 	 
 }
 
